@@ -1,0 +1,2843 @@
+fileFormatVersion: 2
+guid: 66fa9dc63f359784baaeef184bf0eb54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5389225309167357852
+    second: Scene2_Tileset_0
+  - first:
+      213: -4766611794107977112
+    second: Scene2_Tileset_1
+  - first:
+      213: 3013332954265597580
+    second: Scene2_Tileset_2
+  - first:
+      213: -26635733508040584
+    second: Scene2_Tileset_3
+  - first:
+      213: -3965677148670449915
+    second: Scene2_Tileset_4
+  - first:
+      213: 3551436087356164857
+    second: Scene2_Tileset_5
+  - first:
+      213: -2940930943414743504
+    second: Scene2_Tileset_6
+  - first:
+      213: 4169203295528232969
+    second: Scene2_Tileset_7
+  - first:
+      213: -1864273023362011701
+    second: Scene2_Tileset_8
+  - first:
+      213: -3963610402223777546
+    second: Scene2_Tileset_9
+  - first:
+      213: 1473073361355862556
+    second: Scene2_Tileset_10
+  - first:
+      213: 3438491555465381999
+    second: Scene2_Tileset_11
+  - first:
+      213: -3976538756605888952
+    second: Scene2_Tileset_12
+  - first:
+      213: 3786740131114297456
+    second: Scene2_Tileset_13
+  - first:
+      213: -3092097491102739674
+    second: Scene2_Tileset_14
+  - first:
+      213: 8813931979877810327
+    second: Scene2_Tileset_15
+  - first:
+      213: -7153420042074778191
+    second: Scene2_Tileset_16
+  - first:
+      213: -5966029463653433219
+    second: Scene2_Tileset_17
+  - first:
+      213: 9142370193655577953
+    second: Scene2_Tileset_18
+  - first:
+      213: 6377003570132523125
+    second: Scene2_Tileset_19
+  - first:
+      213: 6875695879947043245
+    second: Scene2_Tileset_20
+  - first:
+      213: -2980806672884023961
+    second: Scene2_Tileset_21
+  - first:
+      213: 137023145758691589
+    second: Scene2_Tileset_22
+  - first:
+      213: -5431078443533191805
+    second: Scene2_Tileset_23
+  - first:
+      213: 7524998478235639104
+    second: Scene2_Tileset_24
+  - first:
+      213: -7056090675712957677
+    second: Scene2_Tileset_25
+  - first:
+      213: -3476332326755255757
+    second: Scene2_Tileset_26
+  - first:
+      213: 5966204013295937823
+    second: Scene2_Tileset_27
+  - first:
+      213: -5711262535905517097
+    second: Scene2_Tileset_28
+  - first:
+      213: 6023869182425463575
+    second: Scene2_Tileset_29
+  - first:
+      213: -7958191676321317421
+    second: Scene2_Tileset_30
+  - first:
+      213: 7151023467948145834
+    second: Scene2_Tileset_31
+  - first:
+      213: -3047419941076789226
+    second: Scene2_Tileset_32
+  - first:
+      213: -2841166947956278065
+    second: Scene2_Tileset_33
+  - first:
+      213: -3862761921499937647
+    second: Scene2_Tileset_34
+  - first:
+      213: 3138582415659144697
+    second: Scene2_Tileset_35
+  - first:
+      213: -8575414113536544403
+    second: Scene2_Tileset_36
+  - first:
+      213: 2823753239884452302
+    second: Scene2_Tileset_37
+  - first:
+      213: -5055346307936442894
+    second: Scene2_Tileset_38
+  - first:
+      213: -255231059606111968
+    second: Scene2_Tileset_39
+  - first:
+      213: 2902103082361804227
+    second: Scene2_Tileset_40
+  - first:
+      213: -6604754249776502181
+    second: Scene2_Tileset_41
+  - first:
+      213: 4928951910535891135
+    second: Scene2_Tileset_42
+  - first:
+      213: 8519645678748525268
+    second: Scene2_Tileset_43
+  - first:
+      213: -5681037461186216822
+    second: Scene2_Tileset_44
+  - first:
+      213: 322487265023827321
+    second: Scene2_Tileset_45
+  - first:
+      213: -7901523401240496787
+    second: Scene2_Tileset_46
+  - first:
+      213: 5528306793169628587
+    second: Scene2_Tileset_47
+  - first:
+      213: -1114027876095039415
+    second: Scene2_Tileset_48
+  - first:
+      213: 4204418264804675379
+    second: Scene2_Tileset_49
+  - first:
+      213: -1248885750716901135
+    second: Scene2_Tileset_50
+  - first:
+      213: -4840006687858934494
+    second: Scene2_Tileset_51
+  - first:
+      213: 403199318815397154
+    second: Scene2_Tileset_52
+  - first:
+      213: 8748203944691877661
+    second: Scene2_Tileset_53
+  - first:
+      213: -3465766195596863642
+    second: Scene2_Tileset_54
+  - first:
+      213: 8037661338761998876
+    second: Scene2_Tileset_55
+  - first:
+      213: 9123369778948631885
+    second: Scene2_Tileset_56
+  - first:
+      213: 7198909502570206362
+    second: Scene2_Tileset_57
+  - first:
+      213: -4619713283279212768
+    second: Scene2_Tileset_58
+  - first:
+      213: -2406854695285054786
+    second: Scene2_Tileset_59
+  - first:
+      213: -6026889343187857979
+    second: Scene2_Tileset_60
+  - first:
+      213: -4748943259626877359
+    second: Scene2_Tileset_61
+  - first:
+      213: -387519496661289846
+    second: Scene2_Tileset_62
+  - first:
+      213: -5025045911841794044
+    second: Scene2_Tileset_63
+  - first:
+      213: -7676633951616234602
+    second: Scene2_Tileset_64
+  - first:
+      213: -4010113684267408276
+    second: Scene2_Tileset_65
+  - first:
+      213: 6189381651780349290
+    second: Scene2_Tileset_66
+  - first:
+      213: 5602278068525155608
+    second: Scene2_Tileset_67
+  - first:
+      213: -4796936362484877266
+    second: Scene2_Tileset_68
+  - first:
+      213: -6066205182986124388
+    second: Scene2_Tileset_69
+  - first:
+      213: 8960680991887425524
+    second: Scene2_Tileset_70
+  - first:
+      213: 308510604581948947
+    second: Scene2_Tileset_71
+  - first:
+      213: -6166884538102818747
+    second: Scene2_Tileset_72
+  - first:
+      213: -5078407386142722783
+    second: Scene2_Tileset_73
+  - first:
+      213: -8075157890056184646
+    second: Scene2_Tileset_74
+  - first:
+      213: -3009700125255221594
+    second: Scene2_Tileset_75
+  - first:
+      213: -7958436101442232707
+    second: Scene2_Tileset_76
+  - first:
+      213: 3741286185552491756
+    second: Scene2_Tileset_77
+  - first:
+      213: -4271405562598246648
+    second: Scene2_Tileset_78
+  - first:
+      213: 494300638212007664
+    second: Scene2_Tileset_79
+  - first:
+      213: 1453670712389813608
+    second: Scene2_Tileset_80
+  - first:
+      213: 808690431134183527
+    second: Scene2_Tileset_81
+  - first:
+      213: -5384062946254107522
+    second: Scene2_Tileset_82
+  - first:
+      213: 16528909488286832
+    second: Scene2_Tileset_83
+  - first:
+      213: -6671173577676936150
+    second: Scene2_Tileset_84
+  - first:
+      213: 5215079488937068783
+    second: Scene2_Tileset_85
+  - first:
+      213: -2731642411078838636
+    second: Scene2_Tileset_86
+  - first:
+      213: -7071698711346284089
+    second: Scene2_Tileset_87
+  - first:
+      213: -7297001609532755632
+    second: Scene2_Tileset_88
+  - first:
+      213: -2340901957097195384
+    second: Scene2_Tileset_89
+  - first:
+      213: -2439078261975551918
+    second: Scene2_Tileset_90
+  - first:
+      213: -7940635907367263051
+    second: Scene2_Tileset_91
+  - first:
+      213: -8610563988227022106
+    second: Scene2_Tileset_92
+  - first:
+      213: -7883191239375329750
+    second: Scene2_Tileset_93
+  - first:
+      213: 5721719535494275708
+    second: Scene2_Tileset_94
+  - first:
+      213: -957243392729183353
+    second: Scene2_Tileset_95
+  - first:
+      213: 5744868838203669351
+    second: Scene2_Tileset_96
+  - first:
+      213: -4807575037003913750
+    second: Scene2_Tileset_97
+  - first:
+      213: 5918244968969951459
+    second: Scene2_Tileset_98
+  - first:
+      213: 6770092822780312635
+    second: Scene2_Tileset_99
+  - first:
+      213: -4013833949123444122
+    second: Scene2_Tileset_100
+  - first:
+      213: -7240476415878698826
+    second: Scene2_Tileset_101
+  - first:
+      213: -6543245053200201114
+    second: Scene2_Tileset_102
+  - first:
+      213: -2314552401801171459
+    second: Scene2_Tileset_103
+  - first:
+      213: -3839873782508823441
+    second: Scene2_Tileset_104
+  - first:
+      213: 4892754083983845315
+    second: Scene2_Tileset_105
+  - first:
+      213: 981993643616903715
+    second: Scene2_Tileset_106
+  - first:
+      213: -2133707219679853644
+    second: Scene2_Tileset_107
+  - first:
+      213: 2384061127441738282
+    second: Scene2_Tileset_108
+  - first:
+      213: -1419098643184590585
+    second: Scene2_Tileset_109
+  - first:
+      213: -4776867181509682157
+    second: Scene2_Tileset_110
+  - first:
+      213: 6233088008743143066
+    second: Scene2_Tileset_111
+  - first:
+      213: -6655974208935192040
+    second: Scene2_Tileset_112
+  - first:
+      213: 2543792550235917227
+    second: Scene2_Tileset_113
+  - first:
+      213: -2692257534655647454
+    second: Scene2_Tileset_114
+  - first:
+      213: 5101542560326350407
+    second: Scene2_Tileset_115
+  - first:
+      213: 706890460574436283
+    second: Scene2_Tileset_116
+  - first:
+      213: -1655574677906861571
+    second: Scene2_Tileset_117
+  - first:
+      213: 4138891142136300817
+    second: Scene2_Tileset_118
+  - first:
+      213: -276298490093539342
+    second: Scene2_Tileset_119
+  - first:
+      213: 3800307187539778918
+    second: Scene2_Tileset_120
+  - first:
+      213: -5261187236372215922
+    second: Scene2_Tileset_121
+  - first:
+      213: 2238277685336855532
+    second: Scene2_Tileset_122
+  - first:
+      213: -2638743336477419402
+    second: Scene2_Tileset_123
+  - first:
+      213: 927254919572797604
+    second: Scene2_Tileset_124
+  - first:
+      213: -4567013445283898706
+    second: Scene2_Tileset_125
+  - first:
+      213: -8064847167327596445
+    second: Scene2_Tileset_126
+  - first:
+      213: 7871293272170869896
+    second: Scene2_Tileset_127
+  - first:
+      213: -7436000502050208292
+    second: Scene2_Tileset_128
+  - first:
+      213: -2546961909870911487
+    second: Scene2_Tileset_129
+  - first:
+      213: -327267086027864138
+    second: Scene2_Tileset_130
+  - first:
+      213: -7593058092017776754
+    second: Scene2_Tileset_131
+  - first:
+      213: -5657751409084246531
+    second: Scene2_Tileset_132
+  - first:
+      213: 894307020891360083
+    second: Scene2_Tileset_133
+  - first:
+      213: 8788044757275385922
+    second: Scene2_Tileset_134
+  - first:
+      213: -1036144178387583880
+    second: Scene2_Tileset_135
+  - first:
+      213: -8698040202352671187
+    second: Scene2_Tileset_136
+  - first:
+      213: -8411437651667101521
+    second: Scene2_Tileset_137
+  - first:
+      213: 9098203066227813402
+    second: Scene2_Tileset_138
+  - first:
+      213: -4679257866941818527
+    second: Scene2_Tileset_139
+  - first:
+      213: -4200834665589576310
+    second: Scene2_Tileset_140
+  - first:
+      213: -1486778943241774414
+    second: Scene2_Tileset_141
+  - first:
+      213: 8435553377049743803
+    second: Scene2_Tileset_142
+  - first:
+      213: -1335775483623038995
+    second: Scene2_Tileset_143
+  - first:
+      213: 1956323800369056085
+    second: Scene2_Tileset_144
+  - first:
+      213: -3764612225220821538
+    second: Scene2_Tileset_145
+  - first:
+      213: -6829557777793184777
+    second: Scene2_Tileset_146
+  - first:
+      213: -2939384986320084766
+    second: Scene2_Tileset_147
+  - first:
+      213: 4072324999466012655
+    second: Scene2_Tileset_148
+  - first:
+      213: -2726634808537284601
+    second: Scene2_Tileset_149
+  - first:
+      213: -1274516028085597836
+    second: Scene2_Tileset_150
+  - first:
+      213: -3076279475168859793
+    second: Scene2_Tileset_151
+  - first:
+      213: 7573096383697529458
+    second: Scene2_Tileset_152
+  - first:
+      213: -3672575526827694225
+    second: Scene2_Tileset_153
+  - first:
+      213: 5139313822772541424
+    second: Scene2_Tileset_154
+  - first:
+      213: -6109488169525800590
+    second: Scene2_Tileset_155
+  - first:
+      213: 1167725947280299520
+    second: Scene2_Tileset_156
+  - first:
+      213: 2692960735691875166
+    second: Scene2_Tileset_157
+  - first:
+      213: 2564914825755975848
+    second: Scene2_Tileset_158
+  - first:
+      213: 4327923538990171365
+    second: Scene2_Tileset_159
+  - first:
+      213: 7440082982063645287
+    second: Scene2_Tileset_160
+  - first:
+      213: -2643936163221506784
+    second: Scene2_Tileset_161
+  - first:
+      213: 871114901861703751
+    second: Scene2_Tileset_162
+  - first:
+      213: -3521216312350066589
+    second: Scene2_Tileset_163
+  - first:
+      213: -3571155477168468219
+    second: Scene2_Tileset_164
+  - first:
+      213: 8943650395746474111
+    second: Scene2_Tileset_165
+  - first:
+      213: 3973476232499979123
+    second: Scene2_Tileset_166
+  - first:
+      213: -2045125958922520382
+    second: Scene2_Tileset_167
+  - first:
+      213: -7729707869821338970
+    second: Scene2_Tileset_168
+  - first:
+      213: 8747413403927791748
+    second: Scene2_Tileset_169
+  - first:
+      213: 4087759744000450922
+    second: Scene2_Tileset_170
+  - first:
+      213: 7874093409624990583
+    second: Scene2_Tileset_171
+  - first:
+      213: 5881489321228985199
+    second: Scene2_Tileset_172
+  - first:
+      213: -8054338474819913311
+    second: Scene2_Tileset_173
+  - first:
+      213: 8660751482338193027
+    second: Scene2_Tileset_174
+  - first:
+      213: -1835083674034300197
+    second: Scene2_Tileset_175
+  - first:
+      213: 7537169492587639892
+    second: Scene2_Tileset_176
+  - first:
+      213: 5949994790734604790
+    second: Scene2_Tileset_177
+  - first:
+      213: -2098461956074509632
+    second: Scene2_Tileset_178
+  - first:
+      213: 6711288994177599213
+    second: Scene2_Tileset_179
+  - first:
+      213: 9165188054830460652
+    second: Scene2_Tileset_180
+  - first:
+      213: 5117276541234525054
+    second: Scene2_Tileset_181
+  - first:
+      213: 2611966496872795214
+    second: Scene2_Tileset_182
+  - first:
+      213: -1402360982172010459
+    second: Scene2_Tileset_183
+  - first:
+      213: -6699049667443127243
+    second: Scene2_Tileset_184
+  - first:
+      213: -1186327350262530842
+    second: Scene2_Tileset_185
+  - first:
+      213: -2298394246801687379
+    second: Scene2_Tileset_186
+  - first:
+      213: 5977788751842135799
+    second: Scene2_Tileset_187
+  - first:
+      213: 1630710649513724334
+    second: Scene2_Tileset_188
+  - first:
+      213: -2510053131853286261
+    second: Scene2_Tileset_189
+  - first:
+      213: -1359915885021874681
+    second: Scene2_Tileset_190
+  - first:
+      213: 7821925225077224644
+    second: Scene2_Tileset_191
+  - first:
+      213: 5052028073038494886
+    second: Scene2_Tileset_192
+  - first:
+      213: -6799262848467431465
+    second: Scene2_Tileset_193
+  - first:
+      213: -8285243162413022740
+    second: Scene2_Tileset_194
+  - first:
+      213: -8346498368322092104
+    second: Scene2_Tileset_195
+  - first:
+      213: 7512910154955317410
+    second: Scene2_Tileset_196
+  - first:
+      213: 74642961774163166
+    second: Scene2_Tileset_197
+  - first:
+      213: -5213774642581393889
+    second: Scene2_Tileset_198
+  - first:
+      213: 2289214875213090226
+    second: Scene2_Tileset_199
+  - first:
+      213: -5071955104581052886
+    second: Scene2_Tileset_200
+  - first:
+      213: -3363804149084104556
+    second: Scene2_Tileset_201
+  - first:
+      213: 1584418353146263624
+    second: Scene2_Tileset_202
+  - first:
+      213: 8930376222941519309
+    second: Scene2_Tileset_203
+  - first:
+      213: -4190376502333002238
+    second: Scene2_Tileset_204
+  - first:
+      213: -2660507658031759159
+    second: Scene2_Tileset_205
+  - first:
+      213: -8794129307052524065
+    second: Scene2_Tileset_206
+  - first:
+      213: 5653534463532345399
+    second: Scene2_Tileset_207
+  - first:
+      213: -5136602198872983106
+    second: Scene2_Tileset_208
+  - first:
+      213: 6475742848013977645
+    second: Scene2_Tileset_209
+  - first:
+      213: -570468386054383002
+    second: Scene2_Tileset_210
+  - first:
+      213: 3631420995328238295
+    second: Scene2_Tileset_211
+  - first:
+      213: 8735630479377893941
+    second: Scene2_Tileset_212
+  - first:
+      213: -446050585956287321
+    second: Scene2_Tileset_213
+  - first:
+      213: -4391905577065784026
+    second: Scene2_Tileset_214
+  - first:
+      213: -3198949392549183223
+    second: Scene2_Tileset_215
+  - first:
+      213: 5694316246003494398
+    second: Scene2_Tileset_216
+  - first:
+      213: 7317438718393732215
+    second: Scene2_Tileset_217
+  - first:
+      213: 8156770501439586085
+    second: Scene2_Tileset_218
+  - first:
+      213: 5894975509719820584
+    second: Scene2_Tileset_219
+  - first:
+      213: -3946029972449625619
+    second: Scene2_Tileset_220
+  - first:
+      213: 8910067358641816717
+    second: Scene2_Tileset_221
+  - first:
+      213: -1458005204267390218
+    second: Scene2_Tileset_222
+  - first:
+      213: 4601556992483676532
+    second: Scene2_Tileset_223
+  - first:
+      213: -4728582797608432532
+    second: Scene2_Tileset_224
+  - first:
+      213: 2477954027965324510
+    second: Scene2_Tileset_225
+  - first:
+      213: -2153583541763251909
+    second: Scene2_Tileset_226
+  - first:
+      213: 3322080912926809981
+    second: Scene2_Tileset_227
+  - first:
+      213: -2803307519804721918
+    second: Scene2_Tileset_228
+  - first:
+      213: 1305075468122077750
+    second: Scene2_Tileset_229
+  - first:
+      213: 1184804220961740726
+    second: Scene2_Tileset_230
+  - first:
+      213: 8011055462430587016
+    second: Scene2_Tileset_231
+  - first:
+      213: -5650722715884320580
+    second: Scene2_Tileset_232
+  - first:
+      213: -1159157435099474598
+    second: Scene2_Tileset_233
+  - first:
+      213: -8369150268834735433
+    second: Scene2_Tileset_234
+  - first:
+      213: 3046209361303461392
+    second: Scene2_Tileset_235
+  - first:
+      213: -383516080683310013
+    second: Scene2_Tileset_236
+  - first:
+      213: 6040325986971080385
+    second: Scene2_Tileset_237
+  - first:
+      213: 7651939197363572158
+    second: Scene2_Tileset_238
+  - first:
+      213: -1732898433684167335
+    second: Scene2_Tileset_239
+  - first:
+      213: 8044668148927122179
+    second: Scene2_Tileset_240
+  - first:
+      213: -1690791096735498821
+    second: Scene2_Tileset_241
+  - first:
+      213: 6175744278119256394
+    second: Scene2_Tileset_242
+  - first:
+      213: -1311679811967731042
+    second: Scene2_Tileset_243
+  - first:
+      213: 6602280813219130661
+    second: Scene2_Tileset_244
+  - first:
+      213: -2336178354838747142
+    second: Scene2_Tileset_245
+  - first:
+      213: 8806705141324162836
+    second: Scene2_Tileset_246
+  - first:
+      213: -5759376847384974544
+    second: Scene2_Tileset_247
+  - first:
+      213: 9190155610507913428
+    second: Scene2_Tileset_248
+  - first:
+      213: -1995004355077669858
+    second: Scene2_Tileset_249
+  - first:
+      213: 7255222192405812265
+    second: Scene2_Tileset_250
+  - first:
+      213: 8183613001172889709
+    second: Scene2_Tileset_251
+  - first:
+      213: -6179222496776034664
+    second: Scene2_Tileset_252
+  - first:
+      213: 3276020190061015225
+    second: Scene2_Tileset_253
+  - first:
+      213: 8647288693190172830
+    second: Scene2_Tileset_254
+  - first:
+      213: -2095077781421463335
+    second: Scene2_Tileset_255
+  - first:
+      213: 6946248386328999580
+    second: Scene2_Tileset_256
+  - first:
+      213: -8571282969762172273
+    second: Scene2_Tileset_257
+  - first:
+      213: -2261609468371442904
+    second: Scene2_Tileset_258
+  - first:
+      213: -5303862165928934050
+    second: Scene2_Tileset_259
+  - first:
+      213: -635431320626515007
+    second: Scene2_Tileset_260
+  - first:
+      213: -7006419943909742246
+    second: Scene2_Tileset_261
+  - first:
+      213: -2039106620262458052
+    second: Scene2_Tileset_262
+  - first:
+      213: -2099676797967720296
+    second: Scene2_Tileset_263
+  - first:
+      213: 4295691851522045977
+    second: Scene2_Tileset_264
+  - first:
+      213: -7757878502827299418
+    second: Scene2_Tileset_265
+  - first:
+      213: -727417405548951309
+    second: Scene2_Tileset_266
+  - first:
+      213: 184870012253146574
+    second: Scene2_Tileset_267
+  - first:
+      213: 3971673643339502375
+    second: Scene2_Tileset_268
+  - first:
+      213: -4550155983741605529
+    second: Scene2_Tileset_269
+  - first:
+      213: -1368015935644921670
+    second: Scene2_Tileset_270
+  - first:
+      213: -9054389077088266664
+    second: Scene2_Tileset_271
+  - first:
+      213: -8238305777325168210
+    second: Scene2_Tileset_272
+  - first:
+      213: 4526939092499945385
+    second: Scene2_Tileset_273
+  - first:
+      213: -3221008215740386520
+    second: Scene2_Tileset_274
+  - first:
+      213: -8279196784893761141
+    second: Scene2_Tileset_275
+  - first:
+      213: 5475447391707747282
+    second: Scene2_Tileset_276
+  - first:
+      213: 5606016948713850345
+    second: Scene2_Tileset_277
+  - first:
+      213: -6402231028040205603
+    second: Scene2_Tileset_278
+  - first:
+      213: -8162443358403073742
+    second: Scene2_Tileset_279
+  - first:
+      213: -779142916204757850
+    second: Scene2_Tileset_280
+  - first:
+      213: 9214683307684321523
+    second: Scene2_Tileset_281
+  - first:
+      213: 272633334511908327
+    second: Scene2_Tileset_282
+  - first:
+      213: 7672048532352552302
+    second: Scene2_Tileset_283
+  - first:
+      213: 3523078629171878595
+    second: Scene2_Tileset_284
+  - first:
+      213: -7378175148976646594
+    second: Scene2_Tileset_285
+  - first:
+      213: 8572720637388719517
+    second: Scene2_Tileset_286
+  - first:
+      213: 1761804407243028694
+    second: Scene2_Tileset_287
+  - first:
+      213: -7039938583033578223
+    second: Scene2_Tileset_288
+  - first:
+      213: -2792227095208096101
+    second: Scene2_Tileset_289
+  - first:
+      213: 468614949941717894
+    second: Scene2_Tileset_290
+  - first:
+      213: 5672602964168906564
+    second: Scene2_Tileset_291
+  - first:
+      213: -7873991577731205069
+    second: Scene2_Tileset_292
+  - first:
+      213: -7669157897621430505
+    second: Scene2_Tileset_293
+  - first:
+      213: -8102870432950363441
+    second: Scene2_Tileset_294
+  - first:
+      213: 4260372505310360395
+    second: Scene2_Tileset_295
+  - first:
+      213: 4672069672580614878
+    second: Scene2_Tileset_296
+  - first:
+      213: 2437583589313564470
+    second: Scene2_Tileset_297
+  - first:
+      213: 6404184610339302745
+    second: Scene2_Tileset_298
+  - first:
+      213: 1126802926558747210
+    second: Scene2_Tileset_299
+  - first:
+      213: 5194511114321976265
+    second: Scene2_Tileset_300
+  - first:
+      213: -4490298406783200167
+    second: Scene2_Tileset_301
+  - first:
+      213: -8485183888300441657
+    second: Scene2_Tileset_302
+  - first:
+      213: -8128040894816811223
+    second: Scene2_Tileset_303
+  - first:
+      213: -525857790407274665
+    second: Scene2_Tileset_304
+  - first:
+      213: -1512265995782503912
+    second: Scene2_Tileset_305
+  - first:
+      213: 6661169309835102076
+    second: Scene2_Tileset_306
+  - first:
+      213: -8909822476773080621
+    second: Scene2_Tileset_307
+  - first:
+      213: 6591287427513078005
+    second: Scene2_Tileset_308
+  - first:
+      213: 1952213509197597851
+    second: Scene2_Tileset_309
+  - first:
+      213: 1402817659543370920
+    second: Scene2_Tileset_310
+  - first:
+      213: -9177610804109838375
+    second: Scene2_Tileset_311
+  - first:
+      213: -9020551325847964726
+    second: Scene2_Tileset_312
+  - first:
+      213: -5216533671389297330
+    second: Scene2_Tileset_313
+  - first:
+      213: -2592817942873814952
+    second: Scene2_Tileset_314
+  - first:
+      213: 5233465162566596761
+    second: Scene2_Tileset_315
+  - first:
+      213: 2386003346942354780
+    second: Scene2_Tileset_316
+  - first:
+      213: 480349661170326024
+    second: Scene2_Tileset_317
+  - first:
+      213: 8329278593980635275
+    second: Scene2_Tileset_318
+  - first:
+      213: 632212597713070519
+    second: Scene2_Tileset_319
+  - first:
+      213: 272334437846533577
+    second: Scene2_Tileset_320
+  - first:
+      213: 4290568574256814986
+    second: Scene2_Tileset_321
+  - first:
+      213: 7815557675686934160
+    second: Scene2_Tileset_322
+  - first:
+      213: -8510768522452144027
+    second: Scene2_Tileset_323
+  - first:
+      213: -4997638364329045389
+    second: Scene2_Tileset_324
+  - first:
+      213: -4282537891099579317
+    second: Scene2_Tileset_325
+  - first:
+      213: -8510746645554759508
+    second: Scene2_Tileset_326
+  - first:
+      213: -5934124351004762216
+    second: Scene2_Tileset_327
+  - first:
+      213: 6551047841814603332
+    second: Scene2_Tileset_328
+  - first:
+      213: -7853514429790167783
+    second: Scene2_Tileset_329
+  - first:
+      213: -1907425713715426839
+    second: Scene2_Tileset_330
+  - first:
+      213: 4705078853110718967
+    second: Scene2_Tileset_331
+  - first:
+      213: -2275595172450532954
+    second: Scene2_Tileset_332
+  - first:
+      213: 3080067184443631043
+    second: Scene2_Tileset_333
+  - first:
+      213: -7866364183062678784
+    second: Scene2_Tileset_334
+  - first:
+      213: 6001186393956116823
+    second: Scene2_Tileset_335
+  - first:
+      213: 4525030638350933288
+    second: Scene2_Tileset_336
+  - first:
+      213: 283986721399439413
+    second: Scene2_Tileset_337
+  - first:
+      213: 9025696602450343138
+    second: Scene2_Tileset_338
+  - first:
+      213: -1370229952625613701
+    second: Scene2_Tileset_339
+  - first:
+      213: -4277157506804517103
+    second: Scene2_Tileset_340
+  - first:
+      213: 5268757529531192033
+    second: Scene2_Tileset_341
+  - first:
+      213: 5055700516776167722
+    second: Scene2_Tileset_342
+  - first:
+      213: 5453938287456854192
+    second: Scene2_Tileset_343
+  - first:
+      213: -5134216010692585197
+    second: Scene2_Tileset_344
+  - first:
+      213: -7934175755526062937
+    second: Scene2_Tileset_345
+  - first:
+      213: 6440936624031687091
+    second: Scene2_Tileset_346
+  - first:
+      213: -1505297399241164625
+    second: Scene2_Tileset_347
+  - first:
+      213: -5215601359645015713
+    second: Scene2_Tileset_348
+  - first:
+      213: -1957903510220191355
+    second: Scene2_Tileset_349
+  - first:
+      213: -6985615996082391892
+    second: Scene2_Tileset_350
+  - first:
+      213: 4720295522341047675
+    second: Scene2_Tileset_351
+  - first:
+      213: 3517252017487396185
+    second: Scene2_Tileset_352
+  - first:
+      213: 6075451713331372926
+    second: Scene2_Tileset_353
+  - first:
+      213: -1098600793300898190
+    second: Scene2_Tileset_354
+  - first:
+      213: 2552036454302904756
+    second: Scene2_Tileset_355
+  - first:
+      213: -3695677722081693316
+    second: Scene2_Tileset_356
+  - first:
+      213: 7496516806858333911
+    second: Scene2_Tileset_357
+  - first:
+      213: -6560713714398759545
+    second: Scene2_Tileset_358
+  - first:
+      213: 8742385443991624013
+    second: Scene2_Tileset_359
+  - first:
+      213: 7391545419700660886
+    second: Scene2_Tileset_360
+  - first:
+      213: 8864125568914341911
+    second: Scene2_Tileset_361
+  - first:
+      213: 7449425892099122644
+    second: Scene2_Tileset_362
+  - first:
+      213: 4409060652564591334
+    second: Scene2_Tileset_363
+  - first:
+      213: 2509219374357906808
+    second: Scene2_Tileset_364
+  - first:
+      213: -7429686967484284374
+    second: Scene2_Tileset_365
+  - first:
+      213: -2462342242385760737
+    second: Scene2_Tileset_366
+  - first:
+      213: 8206399373572489083
+    second: Scene2_Tileset_367
+  - first:
+      213: 889381187108320630
+    second: Scene2_Tileset_368
+  - first:
+      213: -3567272700614683991
+    second: Scene2_Tileset_369
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene2_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f07778ddf5aca40800000000000000
+      internalID: 5389225309167357852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b10ee3d799ddb0800000000000000
+      internalID: -4766611794107977112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86baf84b5281d920800000000000000
+      internalID: 3013332954265597580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878dbe501fe51aff0800000000000000
+      internalID: -26635733508040584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5072d93f4a517f8c0800000000000000
+      internalID: -3965677148670449915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0e5d1e4c394130800000000000000
+      internalID: 3551436087356164857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4fc083e6bf27d0800000000000000
+      internalID: -2940930943414743504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9082952de4cfbd930800000000000000
+      internalID: 4169203295528232969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde9260095c026e0800000000000000
+      internalID: -1864273023362011701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8986bd65d6ef8c0800000000000000
+      internalID: -3963610402223777546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12f4bfda68617410800000000000000
+      internalID: 1473073361355862556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c1be0ad9f7bf20800000000000000
+      internalID: 3438491555465381999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bee8c11f70d8c0800000000000000
+      internalID: -3976538756605888952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a8c316143d8430800000000000000
+      internalID: 3786740131114297456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d1f7e6b9a615d0800000000000000
+      internalID: -3092097491102739674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790821fff60615a70800000000000000
+      internalID: 8813931979877810327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b519f64f52f9bc90800000000000000
+      internalID: -7153420042074778191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704c6befc7643da0800000000000000
+      internalID: -5966029463653433219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db5f5b04930ee70800000000000000
+      internalID: 9142370193655577953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5789521d5faaf7850800000000000000
+      internalID: 6377003570132523125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da14cdb49f06b6f50800000000000000
+      internalID: 6875695879947043245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d32aebf1c02a6d0800000000000000
+      internalID: -2980806672884023961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50114f833ddc6e100800000000000000
+      internalID: 137023145758691589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3853ce14eeee0a4b0800000000000000
+      internalID: -5431078443533191805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d179e2f3a2e6860800000000000000
+      internalID: 7524998478235639104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313ee2b4aeab31e90800000000000000
+      internalID: -7056090675712957677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33abb8eca2691cfc0800000000000000
+      internalID: -3476332326755255757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a30690f63cc250800000000000000
+      internalID: 5966204013295937823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1ea50bbf48db0b0800000000000000
+      internalID: -5711262535905517097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b74e70b15199350800000000000000
+      internalID: 6023869182425463575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddb56ea5d2de8190800000000000000
+      internalID: -7958191676321317421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf783d4f98d3360800000000000000
+      internalID: 7151023467948145834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181da2a5b365b5d0800000000000000
+      internalID: -3047419941076789226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc3c77c6b52298d0800000000000000
+      internalID: -2841166947956278065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19447198f76b46ac0800000000000000
+      internalID: -3862761921499937647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f596aff31c7e8b20800000000000000
+      internalID: 3138582415659144697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6178c85c420ef880800000000000000
+      internalID: -8575414113536544403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1dbac5c9cff2720800000000000000
+      internalID: 2823753239884452302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5adda315dc7d9b0800000000000000
+      internalID: -5055346307936442894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f78c14bc357cf0800000000000000
+      internalID: -255231059606111968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ddbd9067564820800000000000000
+      internalID: 2902103082361804227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae159d0033754a0800000000000000
+      internalID: -6604754249776502181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8897ed5a7276440800000000000000
+      internalID: 4928951910535891135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d26ff51b9cdb3670800000000000000
+      internalID: 8519645678748525268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cfe4a4786e821b0800000000000000
+      internalID: -5681037461186216822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d155c7574b97400800000000000000
+      internalID: 322487265023827321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65bf94a456285290800000000000000
+      internalID: -7901523401240496787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad2148fcbd78bc40800000000000000
+      internalID: 5528306793169628587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e87f8c8d2a80f0800000000000000
+      internalID: -1114027876095039415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fc8d8c228195a30800000000000000
+      internalID: 4204418264804675379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d87fc6011baee0800000000000000
+      internalID: -1248885750716901135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d37a39f87d4dcb0800000000000000
+      internalID: -4840006687858934494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225dbabe4a3789500800000000000000
+      internalID: 403199318815397154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c702432dd76970800000000000000
+      internalID: 8748203944691877661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66754ece10027efc0800000000000000
+      internalID: -3465766195596863642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12bcc9f6628b8f60800000000000000
+      internalID: 8037661338761998876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d64cce978bc9e70800000000000000
+      internalID: 9123369778948631885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9491e61d0aa7e360800000000000000
+      internalID: 7198909502570206362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f2df1ce3b73efb0800000000000000
+      internalID: -4619713283279212768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ad8d1862299ed0800000000000000
+      internalID: -2406854695285054786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd43bef2103c5ca0800000000000000
+      internalID: -6026889343187857979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e447f244d581eb0800000000000000
+      internalID: -4748943259626877359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8437f922114f9af0800000000000000
+      internalID: -387519496661289846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40814a4fd53734ab0800000000000000
+      internalID: -5025045911841794044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0633f71e177590800000000000000
+      internalID: -7676633951616234602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ee44c9d63958c0800000000000000
+      internalID: -4010113684267408276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d20bdc1d915e550800000000000000
+      internalID: 6189381651780349290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815476f983a4fbd40800000000000000
+      internalID: 5602278068525155608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e283fe72bcbdd6db0800000000000000
+      internalID: -4796936362484877266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938a75b68280dba0800000000000000
+      internalID: -6066205182986124388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7b0be2ebba5c70800000000000000
+      internalID: 8960680991887425524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e4c83a2cc084400800000000000000
+      internalID: 308510604581948947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5485887af23da6aa0800000000000000
+      internalID: -6166884538102818747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1253e3c836fd589b0800000000000000
+      internalID: -5078407386142722783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc120adea64fef80800000000000000
+      internalID: -8075157890056184646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb6b1aea56b36d0800000000000000
+      internalID: -3009700125255221594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene2_Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e14e50884fd8190800000000000000
+      internalID: -7958436101442232707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
