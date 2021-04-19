@@ -1,0 +1,7118 @@
+fileFormatVersion: 2
+guid: ccec7b256a3f12a468c3c975ffd84a0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7027365505063283250
+    second: megaman-2-enemy-sprites_0
+  - first:
+      213: -8413615965422597534
+    second: megaman-2-enemy-sprites_1
+  - first:
+      213: -2016173345110189262
+    second: megaman-2-enemy-sprites_2
+  - first:
+      213: -3894957241891887513
+    second: megaman-2-enemy-sprites_3
+  - first:
+      213: -5649922682670003570
+    second: megaman-2-enemy-sprites_4
+  - first:
+      213: 5309641630838803173
+    second: megaman-2-enemy-sprites_5
+  - first:
+      213: 7760887634206642307
+    second: megaman-2-enemy-sprites_6
+  - first:
+      213: -3115779901732111717
+    second: megaman-2-enemy-sprites_7
+  - first:
+      213: -6823391295061691769
+    second: megaman-2-enemy-sprites_8
+  - first:
+      213: -2261962048822541903
+    second: megaman-2-enemy-sprites_9
+  - first:
+      213: -2348203315625735986
+    second: megaman-2-enemy-sprites_10
+  - first:
+      213: -1065677282953874379
+    second: megaman-2-enemy-sprites_11
+  - first:
+      213: 7514237113130831028
+    second: megaman-2-enemy-sprites_12
+  - first:
+      213: -5162647756436670528
+    second: megaman-2-enemy-sprites_13
+  - first:
+      213: -1612040211980764061
+    second: megaman-2-enemy-sprites_14
+  - first:
+      213: 2277007792847427573
+    second: megaman-2-enemy-sprites_15
+  - first:
+      213: -5146170993067163638
+    second: megaman-2-enemy-sprites_16
+  - first:
+      213: 3114184053884615839
+    second: megaman-2-enemy-sprites_17
+  - first:
+      213: 4476035070885576356
+    second: megaman-2-enemy-sprites_18
+  - first:
+      213: 5697695912601297279
+    second: megaman-2-enemy-sprites_19
+  - first:
+      213: 934541789149473561
+    second: megaman-2-enemy-sprites_20
+  - first:
+      213: 4209181694279638236
+    second: megaman-2-enemy-sprites_21
+  - first:
+      213: 7186256512460398091
+    second: megaman-2-enemy-sprites_22
+  - first:
+      213: 3570075371497072465
+    second: megaman-2-enemy-sprites_23
+  - first:
+      213: -2992843356554590910
+    second: megaman-2-enemy-sprites_24
+  - first:
+      213: -4378919190676385999
+    second: megaman-2-enemy-sprites_25
+  - first:
+      213: -7167755656844747059
+    second: megaman-2-enemy-sprites_26
+  - first:
+      213: -9068145528687867725
+    second: megaman-2-enemy-sprites_27
+  - first:
+      213: 5698872786372445453
+    second: megaman-2-enemy-sprites_28
+  - first:
+      213: -270331726812408651
+    second: megaman-2-enemy-sprites_29
+  - first:
+      213: 975234177866593329
+    second: megaman-2-enemy-sprites_30
+  - first:
+      213: -4615167949454549910
+    second: megaman-2-enemy-sprites_31
+  - first:
+      213: 5845044988406707939
+    second: megaman-2-enemy-sprites_32
+  - first:
+      213: 4200123756830110855
+    second: megaman-2-enemy-sprites_33
+  - first:
+      213: -4491516154157636704
+    second: megaman-2-enemy-sprites_34
+  - first:
+      213: -3691659856137646764
+    second: megaman-2-enemy-sprites_35
+  - first:
+      213: -4118389074577359652
+    second: megaman-2-enemy-sprites_36
+  - first:
+      213: -4100486042621821410
+    second: megaman-2-enemy-sprites_37
+  - first:
+      213: 9160116748470743406
+    second: megaman-2-enemy-sprites_38
+  - first:
+      213: -9012645729315735740
+    second: megaman-2-enemy-sprites_39
+  - first:
+      213: 2946950667831944728
+    second: megaman-2-enemy-sprites_40
+  - first:
+      213: 4454725125433594232
+    second: megaman-2-enemy-sprites_41
+  - first:
+      213: 1468544568148571542
+    second: megaman-2-enemy-sprites_42
+  - first:
+      213: -4774833300270307359
+    second: megaman-2-enemy-sprites_43
+  - first:
+      213: -112589435522483231
+    second: megaman-2-enemy-sprites_44
+  - first:
+      213: 8639030943696642510
+    second: megaman-2-enemy-sprites_45
+  - first:
+      213: -45057543425642252
+    second: megaman-2-enemy-sprites_46
+  - first:
+      213: 2545415351911266609
+    second: megaman-2-enemy-sprites_47
+  - first:
+      213: -7765919081663546271
+    second: megaman-2-enemy-sprites_48
+  - first:
+      213: 8267054798973488153
+    second: megaman-2-enemy-sprites_49
+  - first:
+      213: 9198767668243534572
+    second: megaman-2-enemy-sprites_50
+  - first:
+      213: -6188000827187337091
+    second: megaman-2-enemy-sprites_51
+  - first:
+      213: 5282470563861000987
+    second: megaman-2-enemy-sprites_52
+  - first:
+      213: -4943565991307191712
+    second: megaman-2-enemy-sprites_53
+  - first:
+      213: -5915048518302210477
+    second: megaman-2-enemy-sprites_54
+  - first:
+      213: -6893053780526515906
+    second: megaman-2-enemy-sprites_55
+  - first:
+      213: -1891900969703844940
+    second: megaman-2-enemy-sprites_56
+  - first:
+      213: -7533526701860997337
+    second: megaman-2-enemy-sprites_57
+  - first:
+      213: 2234867337582468830
+    second: megaman-2-enemy-sprites_58
+  - first:
+      213: 6874508446503791428
+    second: megaman-2-enemy-sprites_59
+  - first:
+      213: -8463917176931416572
+    second: megaman-2-enemy-sprites_60
+  - first:
+      213: -7004558872928917339
+    second: megaman-2-enemy-sprites_61
+  - first:
+      213: 1328219813262036009
+    second: megaman-2-enemy-sprites_62
+  - first:
+      213: -8985103321788974114
+    second: megaman-2-enemy-sprites_63
+  - first:
+      213: 797337664773991914
+    second: megaman-2-enemy-sprites_64
+  - first:
+      213: 4024207591360307948
+    second: megaman-2-enemy-sprites_65
+  - first:
+      213: -1575717678001589129
+    second: megaman-2-enemy-sprites_66
+  - first:
+      213: -7580090095518396479
+    second: megaman-2-enemy-sprites_67
+  - first:
+      213: 2671087281820589605
+    second: megaman-2-enemy-sprites_68
+  - first:
+      213: -1103438684741193924
+    second: megaman-2-enemy-sprites_69
+  - first:
+      213: -1125505001547388518
+    second: megaman-2-enemy-sprites_70
+  - first:
+      213: 2955626480101388924
+    second: megaman-2-enemy-sprites_71
+  - first:
+      213: 4539003524743657080
+    second: megaman-2-enemy-sprites_72
+  - first:
+      213: 1689630350510977085
+    second: megaman-2-enemy-sprites_73
+  - first:
+      213: -1998521696898966289
+    second: megaman-2-enemy-sprites_74
+  - first:
+      213: 1929712678901910834
+    second: megaman-2-enemy-sprites_75
+  - first:
+      213: 3024895198174425267
+    second: megaman-2-enemy-sprites_76
+  - first:
+      213: 7663468019231932061
+    second: megaman-2-enemy-sprites_77
+  - first:
+      213: 8338584563167914627
+    second: megaman-2-enemy-sprites_78
+  - first:
+      213: -6560743128665973479
+    second: megaman-2-enemy-sprites_79
+  - first:
+      213: 7386634340696240186
+    second: megaman-2-enemy-sprites_80
+  - first:
+      213: -6206413731653343076
+    second: megaman-2-enemy-sprites_81
+  - first:
+      213: 2970429625458892777
+    second: megaman-2-enemy-sprites_82
+  - first:
+      213: 470023881002119945
+    second: megaman-2-enemy-sprites_83
+  - first:
+      213: -3626211653190907945
+    second: megaman-2-enemy-sprites_84
+  - first:
+      213: -7106357703094943173
+    second: megaman-2-enemy-sprites_85
+  - first:
+      213: 4092513021268751996
+    second: megaman-2-enemy-sprites_86
+  - first:
+      213: -7498159565295821450
+    second: megaman-2-enemy-sprites_87
+  - first:
+      213: -6604724857481241223
+    second: megaman-2-enemy-sprites_88
+  - first:
+      213: -3753435820449940899
+    second: megaman-2-enemy-sprites_89
+  - first:
+      213: 2947981010866821138
+    second: megaman-2-enemy-sprites_90
+  - first:
+      213: -7320565542443314298
+    second: megaman-2-enemy-sprites_91
+  - first:
+      213: -1249012327555168121
+    second: megaman-2-enemy-sprites_92
+  - first:
+      213: 3548950924549361918
+    second: megaman-2-enemy-sprites_93
+  - first:
+      213: -8281310720339933807
+    second: megaman-2-enemy-sprites_94
+  - first:
+      213: 114119087720258734
+    second: megaman-2-enemy-sprites_95
+  - first:
+      213: -764683845460585226
+    second: megaman-2-enemy-sprites_96
+  - first:
+      213: 249675587086967669
+    second: megaman-2-enemy-sprites_97
+  - first:
+      213: -5612103072219176234
+    second: megaman-2-enemy-sprites_98
+  - first:
+      213: -5056129512611130824
+    second: megaman-2-enemy-sprites_99
+  - first:
+      213: 1376495267343624053
+    second: megaman-2-enemy-sprites_100
+  - first:
+      213: -3487161545229040351
+    second: megaman-2-enemy-sprites_101
+  - first:
+      213: -6752181178195888674
+    second: megaman-2-enemy-sprites_102
+  - first:
+      213: 5907986264305519495
+    second: megaman-2-enemy-sprites_103
+  - first:
+      213: -3381790048107883006
+    second: megaman-2-enemy-sprites_104
+  - first:
+      213: -8476515841324173105
+    second: megaman-2-enemy-sprites_105
+  - first:
+      213: -4217847247584805296
+    second: megaman-2-enemy-sprites_106
+  - first:
+      213: 6767225754285206004
+    second: megaman-2-enemy-sprites_107
+  - first:
+      213: -3214326351193718589
+    second: megaman-2-enemy-sprites_108
+  - first:
+      213: 180830306126655610
+    second: megaman-2-enemy-sprites_109
+  - first:
+      213: -3267824884906302113
+    second: megaman-2-enemy-sprites_110
+  - first:
+      213: -1984528016605869455
+    second: megaman-2-enemy-sprites_111
+  - first:
+      213: 6028509816590056569
+    second: megaman-2-enemy-sprites_112
+  - first:
+      213: 3162645195381670738
+    second: megaman-2-enemy-sprites_113
+  - first:
+      213: -3674774251547001577
+    second: megaman-2-enemy-sprites_114
+  - first:
+      213: 2494177860591524224
+    second: megaman-2-enemy-sprites_115
+  - first:
+      213: 4025215912204630861
+    second: megaman-2-enemy-sprites_116
+  - first:
+      213: 4005238228660760704
+    second: megaman-2-enemy-sprites_117
+  - first:
+      213: -5261272148065872815
+    second: megaman-2-enemy-sprites_118
+  - first:
+      213: 3443532160973283799
+    second: megaman-2-enemy-sprites_119
+  - first:
+      213: -439438204667182867
+    second: megaman-2-enemy-sprites_120
+  - first:
+      213: -8041101696898211184
+    second: megaman-2-enemy-sprites_121
+  - first:
+      213: 8829602282725219929
+    second: megaman-2-enemy-sprites_122
+  - first:
+      213: 2305361834875287421
+    second: megaman-2-enemy-sprites_123
+  - first:
+      213: 7705423268469602546
+    second: megaman-2-enemy-sprites_124
+  - first:
+      213: 1100134863709509422
+    second: megaman-2-enemy-sprites_125
+  - first:
+      213: 8888339791634208343
+    second: megaman-2-enemy-sprites_126
+  - first:
+      213: 2544142472244814201
+    second: megaman-2-enemy-sprites_127
+  - first:
+      213: 1367099711431933425
+    second: megaman-2-enemy-sprites_128
+  - first:
+      213: 149294890333923208
+    second: megaman-2-enemy-sprites_129
+  - first:
+      213: 7549704060652001791
+    second: megaman-2-enemy-sprites_130
+  - first:
+      213: -5175350810816884684
+    second: megaman-2-enemy-sprites_131
+  - first:
+      213: 8770071142143493323
+    second: megaman-2-enemy-sprites_132
+  - first:
+      213: -4070636679727137245
+    second: megaman-2-enemy-sprites_133
+  - first:
+      213: -5410930002499130777
+    second: megaman-2-enemy-sprites_134
+  - first:
+      213: -5488992362905744781
+    second: megaman-2-enemy-sprites_135
+  - first:
+      213: -6033870482627720955
+    second: megaman-2-enemy-sprites_136
+  - first:
+      213: -7470080212779196340
+    second: megaman-2-enemy-sprites_137
+  - first:
+      213: 7451590808602895974
+    second: megaman-2-enemy-sprites_138
+  - first:
+      213: -6628482330379020920
+    second: megaman-2-enemy-sprites_139
+  - first:
+      213: -1061210290929682989
+    second: megaman-2-enemy-sprites_140
+  - first:
+      213: 8305103657654146761
+    second: megaman-2-enemy-sprites_141
+  - first:
+      213: 2129946645085609863
+    second: megaman-2-enemy-sprites_142
+  - first:
+      213: 3202626339080638558
+    second: megaman-2-enemy-sprites_143
+  - first:
+      213: 9006837265233982070
+    second: megaman-2-enemy-sprites_144
+  - first:
+      213: 2020736010441000305
+    second: megaman-2-enemy-sprites_145
+  - first:
+      213: -3608538284039727586
+    second: megaman-2-enemy-sprites_146
+  - first:
+      213: 3513040590089990129
+    second: megaman-2-enemy-sprites_147
+  - first:
+      213: 4915626580524854145
+    second: megaman-2-enemy-sprites_148
+  - first:
+      213: 1083073625361457263
+    second: megaman-2-enemy-sprites_149
+  - first:
+      213: 6198068715544089764
+    second: megaman-2-enemy-sprites_150
+  - first:
+      213: 5826148992717945845
+    second: megaman-2-enemy-sprites_151
+  - first:
+      213: -8019623398738770489
+    second: megaman-2-enemy-sprites_152
+  - first:
+      213: -7342752329856125894
+    second: megaman-2-enemy-sprites_153
+  - first:
+      213: 7160213305476115942
+    second: megaman-2-enemy-sprites_154
+  - first:
+      213: 5803580714922670631
+    second: megaman-2-enemy-sprites_155
+  - first:
+      213: 3312376274492208536
+    second: megaman-2-enemy-sprites_156
+  - first:
+      213: 6823746166904908842
+    second: megaman-2-enemy-sprites_157
+  - first:
+      213: -3048850903668815989
+    second: megaman-2-enemy-sprites_158
+  - first:
+      213: -6524001367944265343
+    second: megaman-2-enemy-sprites_159
+  - first:
+      213: 2963524008878883556
+    second: megaman-2-enemy-sprites_160
+  - first:
+      213: -3469092456592592712
+    second: megaman-2-enemy-sprites_161
+  - first:
+      213: 5895371046405422215
+    second: megaman-2-enemy-sprites_162
+  - first:
+      213: -7430777620500864135
+    second: megaman-2-enemy-sprites_163
+  - first:
+      213: -2617970850804317352
+    second: megaman-2-enemy-sprites_164
+  - first:
+      213: 8143257666415661384
+    second: megaman-2-enemy-sprites_165
+  - first:
+      213: 5604265132622118293
+    second: megaman-2-enemy-sprites_166
+  - first:
+      213: -6913337878657466257
+    second: megaman-2-enemy-sprites_167
+  - first:
+      213: -4758874209849896040
+    second: megaman-2-enemy-sprites_168
+  - first:
+      213: 3160604950749193319
+    second: megaman-2-enemy-sprites_169
+  - first:
+      213: 7857255680254301520
+    second: megaman-2-enemy-sprites_170
+  - first:
+      213: 3839350086018039467
+    second: megaman-2-enemy-sprites_171
+  - first:
+      213: -445814144681490093
+    second: megaman-2-enemy-sprites_172
+  - first:
+      213: 8412947731890266140
+    second: megaman-2-enemy-sprites_173
+  - first:
+      213: -6934777700347659973
+    second: megaman-2-enemy-sprites_174
+  - first:
+      213: 7002443043737300063
+    second: megaman-2-enemy-sprites_175
+  - first:
+      213: 6973363780800100429
+    second: megaman-2-enemy-sprites_176
+  - first:
+      213: 7690403661174641910
+    second: megaman-2-enemy-sprites_177
+  - first:
+      213: -6947641323286909730
+    second: megaman-2-enemy-sprites_178
+  - first:
+      213: 5030849164138928264
+    second: megaman-2-enemy-sprites_179
+  - first:
+      213: 5951536380301234523
+    second: megaman-2-enemy-sprites_180
+  - first:
+      213: -4670098042888036765
+    second: megaman-2-enemy-sprites_181
+  - first:
+      213: -3195713883441680722
+    second: megaman-2-enemy-sprites_182
+  - first:
+      213: 6895665937559874666
+    second: megaman-2-enemy-sprites_183
+  - first:
+      213: 1062203953474639643
+    second: megaman-2-enemy-sprites_184
+  - first:
+      213: -274762067045596638
+    second: megaman-2-enemy-sprites_185
+  - first:
+      213: 7642506476979819641
+    second: megaman-2-enemy-sprites_186
+  - first:
+      213: -530466720812656668
+    second: megaman-2-enemy-sprites_187
+  - first:
+      213: 6728390299457228345
+    second: megaman-2-enemy-sprites_188
+  - first:
+      213: -3711792575373103575
+    second: megaman-2-enemy-sprites_189
+  - first:
+      213: -76763450941056948
+    second: megaman-2-enemy-sprites_190
+  - first:
+      213: 6911481955280327827
+    second: megaman-2-enemy-sprites_191
+  - first:
+      213: 4411236685197542343
+    second: megaman-2-enemy-sprites_192
+  - first:
+      213: -5900319087764282897
+    second: megaman-2-enemy-sprites_193
+  - first:
+      213: -8474319397271663347
+    second: megaman-2-enemy-sprites_194
+  - first:
+      213: -2941131050486866308
+    second: megaman-2-enemy-sprites_195
+  - first:
+      213: -938421279771744034
+    second: megaman-2-enemy-sprites_196
+  - first:
+      213: -1222052642165476125
+    second: megaman-2-enemy-sprites_197
+  - first:
+      213: 3542057199519802554
+    second: megaman-2-enemy-sprites_198
+  - first:
+      213: -3132615037976056006
+    second: megaman-2-enemy-sprites_199
+  - first:
+      213: 2584526537098395134
+    second: megaman-2-enemy-sprites_200
+  - first:
+      213: 1637538350921123447
+    second: megaman-2-enemy-sprites_201
+  - first:
+      213: -5082224056144176199
+    second: megaman-2-enemy-sprites_202
+  - first:
+      213: 4635267038004392027
+    second: megaman-2-enemy-sprites_203
+  - first:
+      213: -6560393334512046669
+    second: megaman-2-enemy-sprites_204
+  - first:
+      213: -691802105135223758
+    second: megaman-2-enemy-sprites_205
+  - first:
+      213: 2193852588601351970
+    second: megaman-2-enemy-sprites_206
+  - first:
+      213: -4950638952840849446
+    second: megaman-2-enemy-sprites_207
+  - first:
+      213: -3401002987776273468
+    second: megaman-2-enemy-sprites_208
+  - first:
+      213: -8244011344147017379
+    second: megaman-2-enemy-sprites_209
+  - first:
+      213: -5718868613583332130
+    second: megaman-2-enemy-sprites_210
+  - first:
+      213: 1635621067799920111
+    second: megaman-2-enemy-sprites_211
+  - first:
+      213: 5032350974901447458
+    second: megaman-2-enemy-sprites_212
+  - first:
+      213: -7329723496868065910
+    second: megaman-2-enemy-sprites_213
+  - first:
+      213: -1268006333178544684
+    second: megaman-2-enemy-sprites_214
+  - first:
+      213: -2907932932157683367
+    second: megaman-2-enemy-sprites_215
+  - first:
+      213: 6879875888011430897
+    second: megaman-2-enemy-sprites_216
+  - first:
+      213: -981936002544163837
+    second: megaman-2-enemy-sprites_217
+  - first:
+      213: -1007206456474978033
+    second: megaman-2-enemy-sprites_218
+  - first:
+      213: 968754214428364322
+    second: megaman-2-enemy-sprites_219
+  - first:
+      213: 9187622674666751606
+    second: megaman-2-enemy-sprites_220
+  - first:
+      213: -5557316023906201222
+    second: megaman-2-enemy-sprites_221
+  - first:
+      213: -5149296544142395926
+    second: megaman-2-enemy-sprites_222
+  - first:
+      213: 3384259229436310974
+    second: megaman-2-enemy-sprites_223
+  - first:
+      213: -7353689750152937526
+    second: megaman-2-enemy-sprites_224
+  - first:
+      213: 1047185563629634203
+    second: megaman-2-enemy-sprites_225
+  - first:
+      213: -6713278013336480112
+    second: megaman-2-enemy-sprites_226
+  - first:
+      213: -199452942011915314
+    second: megaman-2-enemy-sprites_227
+  - first:
+      213: -5623036186924120525
+    second: megaman-2-enemy-sprites_228
+  - first:
+      213: 7083851855895340131
+    second: megaman-2-enemy-sprites_229
+  - first:
+      213: -4037232357893449053
+    second: megaman-2-enemy-sprites_230
+  - first:
+      213: -8306536768099199725
+    second: megaman-2-enemy-sprites_231
+  - first:
+      213: 9209924458799713979
+    second: megaman-2-enemy-sprites_232
+  - first:
+      213: -96063672447900323
+    second: megaman-2-enemy-sprites_233
+  - first:
+      213: -9107815798449434106
+    second: megaman-2-enemy-sprites_234
+  - first:
+      213: -1731535792733031886
+    second: megaman-2-enemy-sprites_235
+  - first:
+      213: 8604536768134445249
+    second: megaman-2-enemy-sprites_236
+  - first:
+      213: -651750939685838471
+    second: megaman-2-enemy-sprites_237
+  - first:
+      213: 6476539571874677235
+    second: megaman-2-enemy-sprites_238
+  - first:
+      213: 6466742506465852725
+    second: megaman-2-enemy-sprites_239
+  - first:
+      213: -6771447076298178157
+    second: megaman-2-enemy-sprites_240
+  - first:
+      213: -5029732227681104571
+    second: megaman-2-enemy-sprites_241
+  - first:
+      213: -4206776257141964073
+    second: megaman-2-enemy-sprites_242
+  - first:
+      213: -7200733774623850506
+    second: megaman-2-enemy-sprites_243
+  - first:
+      213: -6678470573934977841
+    second: megaman-2-enemy-sprites_244
+  - first:
+      213: -6871030309733435753
+    second: megaman-2-enemy-sprites_245
+  - first:
+      213: -2459203813946683882
+    second: megaman-2-enemy-sprites_246
+  - first:
+      213: 1052742790956652209
+    second: megaman-2-enemy-sprites_247
+  - first:
+      213: -33366393416736289
+    second: megaman-2-enemy-sprites_248
+  - first:
+      213: -6969952096978567716
+    second: megaman-2-enemy-sprites_249
+  - first:
+      213: -9134939834734227170
+    second: megaman-2-enemy-sprites_250
+  - first:
+      213: -8913480677763950215
+    second: megaman-2-enemy-sprites_251
+  - first:
+      213: -8549447695016320140
+    second: megaman-2-enemy-sprites_252
+  - first:
+      213: -803877356541629057
+    second: megaman-2-enemy-sprites_253
+  - first:
+      213: 1842129309837272814
+    second: megaman-2-enemy-sprites_254
+  - first:
+      213: -8908865770456081309
+    second: megaman-2-enemy-sprites_255
+  - first:
+      213: -8090043693801995084
+    second: megaman-2-enemy-sprites_256
+  - first:
+      213: -7921619097247976724
+    second: megaman-2-enemy-sprites_257
+  - first:
+      213: 8001117701883552526
+    second: megaman-2-enemy-sprites_258
+  - first:
+      213: -8820685325904082609
+    second: megaman-2-enemy-sprites_259
+  - first:
+      213: 2211970119061342679
+    second: megaman-2-enemy-sprites_260
+  - first:
+      213: -101220472515889427
+    second: megaman-2-enemy-sprites_261
+  - first:
+      213: 4286404362383947381
+    second: megaman-2-enemy-sprites_262
+  - first:
+      213: 1303052409083394122
+    second: megaman-2-enemy-sprites_263
+  - first:
+      213: -5303396486794436669
+    second: megaman-2-enemy-sprites_264
+  - first:
+      213: 2540178077379505483
+    second: megaman-2-enemy-sprites_265
+  - first:
+      213: -1223036487520423131
+    second: megaman-2-enemy-sprites_266
+  - first:
+      213: 4421206060000533960
+    second: megaman-2-enemy-sprites_267
+  - first:
+      213: -3899694172306504970
+    second: megaman-2-enemy-sprites_268
+  - first:
+      213: -2878440906590847198
+    second: megaman-2-enemy-sprites_269
+  - first:
+      213: -1402058645321147469
+    second: megaman-2-enemy-sprites_270
+  - first:
+      213: 3792856567464642306
+    second: megaman-2-enemy-sprites_271
+  - first:
+      213: -8065019696102121909
+    second: megaman-2-enemy-sprites_272
+  - first:
+      213: -4341157178840230584
+    second: megaman-2-enemy-sprites_273
+  - first:
+      213: -831418616262352823
+    second: megaman-2-enemy-sprites_274
+  - first:
+      213: 5378296468364937530
+    second: megaman-2-enemy-sprites_275
+  - first:
+      213: 1051977590576568094
+    second: megaman-2-enemy-sprites_276
+  - first:
+      213: -5834185838975049334
+    second: megaman-2-enemy-sprites_277
+  - first:
+      213: 745620574346780914
+    second: megaman-2-enemy-sprites_278
+  - first:
+      213: 1693593393363879580
+    second: megaman-2-enemy-sprites_279
+  - first:
+      213: 5110266940049536993
+    second: megaman-2-enemy-sprites_280
+  - first:
+      213: 395781680082227927
+    second: megaman-2-enemy-sprites_281
+  - first:
+      213: -5906069583122144999
+    second: megaman-2-enemy-sprites_282
+  - first:
+      213: 647370151809920980
+    second: megaman-2-enemy-sprites_283
+  - first:
+      213: 8158709755546745130
+    second: megaman-2-enemy-sprites_284
+  - first:
+      213: -4482466384052700320
+    second: megaman-2-enemy-sprites_285
+  - first:
+      213: -8251055490452759371
+    second: megaman-2-enemy-sprites_286
+  - first:
+      213: 376011219181054110
+    second: megaman-2-enemy-sprites_287
+  - first:
+      213: 2520721538047501327
+    second: megaman-2-enemy-sprites_288
+  - first:
+      213: -5395738294914715988
+    second: megaman-2-enemy-sprites_289
+  - first:
+      213: 4633113895102397989
+    second: megaman-2-enemy-sprites_290
+  - first:
+      213: 8324812770214287051
+    second: megaman-2-enemy-sprites_291
+  - first:
+      213: 5514832271805903871
+    second: megaman-2-enemy-sprites_292
+  - first:
+      213: -6583968183846572964
+    second: megaman-2-enemy-sprites_293
+  - first:
+      213: -2523780466807788102
+    second: megaman-2-enemy-sprites_294
+  - first:
+      213: 7282444261056424552
+    second: megaman-2-enemy-sprites_295
+  - first:
+      213: -6170999811228480171
+    second: megaman-2-enemy-sprites_296
+  - first:
+      213: 5599670145157189534
+    second: megaman-2-enemy-sprites_297
+  - first:
+      213: 5103482176310005230
+    second: megaman-2-enemy-sprites_298
+  - first:
+      213: 4003512422991740619
+    second: megaman-2-enemy-sprites_299
+  - first:
+      213: 5203879009480371975
+    second: megaman-2-enemy-sprites_300
+  - first:
+      213: -8772376983207923815
+    second: megaman-2-enemy-sprites_301
+  - first:
+      213: -8701200360166686829
+    second: megaman-2-enemy-sprites_302
+  - first:
+      213: 804779092615087746
+    second: megaman-2-enemy-sprites_303
+  - first:
+      213: 1928284182652682633
+    second: megaman-2-enemy-sprites_304
+  - first:
+      213: 8227207793368259006
+    second: megaman-2-enemy-sprites_305
+  - first:
+      213: -8708444397745511460
+    second: megaman-2-enemy-sprites_306
+  - first:
+      213: -2210131579960544867
+    second: megaman-2-enemy-sprites_307
+  - first:
+      213: -38339653386153138
+    second: megaman-2-enemy-sprites_308
+  - first:
+      213: 2802806529687682470
+    second: megaman-2-enemy-sprites_309
+  - first:
+      213: 5691574824887878947
+    second: megaman-2-enemy-sprites_310
+  - first:
+      213: -2482534121251663581
+    second: megaman-2-enemy-sprites_311
+  - first:
+      213: 5557319069919333923
+    second: megaman-2-enemy-sprites_312
+  - first:
+      213: 1173967531494611480
+    second: megaman-2-enemy-sprites_313
+  - first:
+      213: 167603445752699167
+    second: megaman-2-enemy-sprites_314
+  - first:
+      213: -5669592712918603110
+    second: megaman-2-enemy-sprites_315
+  - first:
+      213: -365156509930512362
+    second: megaman-2-enemy-sprites_316
+  - first:
+      213: 7563279402151124503
+    second: megaman-2-enemy-sprites_317
+  - first:
+      213: -8973546241231155881
+    second: megaman-2-enemy-sprites_318
+  - first:
+      213: 278899859964631394
+    second: megaman-2-enemy-sprites_319
+  - first:
+      213: 5297629673145790267
+    second: megaman-2-enemy-sprites_320
+  - first:
+      213: -5070362095479228790
+    second: megaman-2-enemy-sprites_321
+  - first:
+      213: 3984558291724057975
+    second: megaman-2-enemy-sprites_322
+  - first:
+      213: 762465505299792663
+    second: megaman-2-enemy-sprites_323
+  - first:
+      213: 5598247533465219969
+    second: megaman-2-enemy-sprites_324
+  - first:
+      213: -5189525140420720431
+    second: megaman-2-enemy-sprites_325
+  - first:
+      213: -8691607731108286509
+    second: megaman-2-enemy-sprites_326
+  - first:
+      213: 1916768495490675138
+    second: megaman-2-enemy-sprites_327
+  - first:
+      213: 4225780599616878800
+    second: megaman-2-enemy-sprites_328
+  - first:
+      213: -2712749681342267904
+    second: megaman-2-enemy-sprites_329
+  - first:
+      213: -6007318476141561138
+    second: megaman-2-enemy-sprites_330
+  - first:
+      213: 3575312800948497879
+    second: megaman-2-enemy-sprites_331
+  - first:
+      213: -194768798872262010
+    second: megaman-2-enemy-sprites_332
+  - first:
+      213: 8490839898612745648
+    second: megaman-2-enemy-sprites_333
+  - first:
+      213: -55380636229862749
+    second: megaman-2-enemy-sprites_334
+  - first:
+      213: -5209886018962972025
+    second: megaman-2-enemy-sprites_335
+  - first:
+      213: 6428692969747791008
+    second: megaman-2-enemy-sprites_336
+  - first:
+      213: 937154044768600904
+    second: megaman-2-enemy-sprites_337
+  - first:
+      213: 3126841077939176578
+    second: megaman-2-enemy-sprites_338
+  - first:
+      213: 7138419565391033670
+    second: megaman-2-enemy-sprites_339
+  - first:
+      213: -8333977377830206234
+    second: megaman-2-enemy-sprites_340
+  - first:
+      213: 3826577414282560000
+    second: megaman-2-enemy-sprites_341
+  - first:
+      213: -3431149508900450586
+    second: megaman-2-enemy-sprites_342
+  - first:
+      213: -5473311005773013090
+    second: megaman-2-enemy-sprites_343
+  - first:
+      213: 7647902458941241310
+    second: megaman-2-enemy-sprites_344
+  - first:
+      213: -5029282246729912088
+    second: megaman-2-enemy-sprites_345
+  - first:
+      213: -7077432398983951480
+    second: megaman-2-enemy-sprites_346
+  - first:
+      213: -2065388812762138720
+    second: megaman-2-enemy-sprites_347
+  - first:
+      213: -8447276705150081587
+    second: megaman-2-enemy-sprites_348
+  - first:
+      213: 4984225583604861273
+    second: megaman-2-enemy-sprites_349
+  - first:
+      213: -8789580820109155432
+    second: megaman-2-enemy-sprites_350
+  - first:
+      213: 4175321765977221082
+    second: megaman-2-enemy-sprites_351
+  - first:
+      213: 3294242842789531180
+    second: megaman-2-enemy-sprites_352
+  - first:
+      213: 219878388922274857
+    second: megaman-2-enemy-sprites_353
+  - first:
+      213: -5062405630976092866
+    second: megaman-2-enemy-sprites_354
+  - first:
+      213: 8804641041872139525
+    second: megaman-2-enemy-sprites_355
+  - first:
+      213: 7274063215755799237
+    second: megaman-2-enemy-sprites_356
+  - first:
+      213: 846295370991059297
+    second: megaman-2-enemy-sprites_357
+  - first:
+      213: -5567144251360845128
+    second: megaman-2-enemy-sprites_358
+  - first:
+      213: -7305804548539894868
+    second: megaman-2-enemy-sprites_359
+  - first:
+      213: 262074784777374292
+    second: megaman-2-enemy-sprites_360
+  - first:
+      213: -3987661317834484735
+    second: megaman-2-enemy-sprites_361
+  - first:
+      213: 5192285865855625185
+    second: megaman-2-enemy-sprites_362
+  - first:
+      213: 6646710693254184970
+    second: megaman-2-enemy-sprites_363
+  - first:
+      213: -6195122735902266894
+    second: megaman-2-enemy-sprites_364
+  - first:
+      213: -4828612527983238479
+    second: megaman-2-enemy-sprites_365
+  - first:
+      213: -1275566878872550563
+    second: megaman-2-enemy-sprites_366
+  - first:
+      213: 7247175777698178819
+    second: megaman-2-enemy-sprites_367
+  - first:
+      213: 7420111852795707252
+    second: megaman-2-enemy-sprites_368
+  - first:
+      213: 1726367700640329554
+    second: megaman-2-enemy-sprites_369
+  - first:
+      213: 666735327219419453
+    second: megaman-2-enemy-sprites_370
+  - first:
+      213: -8170715332334236513
+    second: megaman-2-enemy-sprites_371
+  - first:
+      213: -8809225479034169750
+    second: megaman-2-enemy-sprites_372
+  - first:
+      213: 4267632682225726184
+    second: megaman-2-enemy-sprites_373
+  - first:
+      213: 4720694402575596959
+    second: megaman-2-enemy-sprites_374
+  - first:
+      213: -6706164985890521702
+    second: megaman-2-enemy-sprites_375
+  - first:
+      213: 3101217351710587898
+    second: megaman-2-enemy-sprites_376
+  - first:
+      213: 5878113609694452054
+    second: megaman-2-enemy-sprites_377
+  - first:
+      213: 7637366237850804225
+    second: megaman-2-enemy-sprites_378
+  - first:
+      213: 4533889014046655252
+    second: megaman-2-enemy-sprites_379
+  - first:
+      213: 2238628543960371320
+    second: megaman-2-enemy-sprites_380
+  - first:
+      213: 2591689333509294711
+    second: megaman-2-enemy-sprites_381
+  - first:
+      213: -6014402886804295528
+    second: megaman-2-enemy-sprites_382
+  - first:
+      213: 5727809541490541810
+    second: megaman-2-enemy-sprites_383
+  - first:
+      213: -5182492502016368593
+    second: megaman-2-enemy-sprites_384
+  - first:
+      213: -509026172679732562
+    second: megaman-2-enemy-sprites_385
+  - first:
+      213: -4322104420334378351
+    second: megaman-2-enemy-sprites_386
+  - first:
+      213: 7709833555690224746
+    second: megaman-2-enemy-sprites_387
+  - first:
+      213: -3406809715242384968
+    second: megaman-2-enemy-sprites_388
+  - first:
+      213: 8886683773645450961
+    second: megaman-2-enemy-sprites_389
+  - first:
+      213: 8308253056714042620
+    second: megaman-2-enemy-sprites_390
+  - first:
+      213: -2142136952254977693
+    second: megaman-2-enemy-sprites_391
+  - first:
+      213: -3493831534285614033
+    second: megaman-2-enemy-sprites_392
+  - first:
+      213: -2113555001483603565
+    second: megaman-2-enemy-sprites_393
+  - first:
+      213: 7889183723793004987
+    second: megaman-2-enemy-sprites_394
+  - first:
+      213: -6398332962461583069
+    second: megaman-2-enemy-sprites_395
+  - first:
+      213: -3405207461913707062
+    second: megaman-2-enemy-sprites_396
+  - first:
+      213: 8701810714720515539
+    second: megaman-2-enemy-sprites_397
+  - first:
+      213: 5141966273717760174
+    second: megaman-2-enemy-sprites_398
+  - first:
+      213: 39847246637361695
+    second: megaman-2-enemy-sprites_399
+  - first:
+      213: -2333552767360099691
+    second: megaman-2-enemy-sprites_400
+  - first:
+      213: 7984216424703916974
+    second: megaman-2-enemy-sprites_401
+  - first:
+      213: 8052978870163046051
+    second: megaman-2-enemy-sprites_402
+  - first:
+      213: -5573523394601988004
+    second: megaman-2-enemy-sprites_403
+  - first:
+      213: 8891721471454701852
+    second: megaman-2-enemy-sprites_404
+  - first:
+      213: -2983054194025243051
+    second: megaman-2-enemy-sprites_405
+  - first:
+      213: -8890170092028857310
+    second: megaman-2-enemy-sprites_406
+  - first:
+      213: -3113690289778364528
+    second: megaman-2-enemy-sprites_407
+  - first:
+      213: 8857548274074887774
+    second: megaman-2-enemy-sprites_408
+  - first:
+      213: -8582756624044904049
+    second: megaman-2-enemy-sprites_409
+  - first:
+      213: -406667879363051087
+    second: megaman-2-enemy-sprites_410
+  - first:
+      213: -7911422760713454163
+    second: megaman-2-enemy-sprites_411
+  - first:
+      213: -1984557647633381431
+    second: megaman-2-enemy-sprites_412
+  - first:
+      213: 374402350766545855
+    second: megaman-2-enemy-sprites_413
+  - first:
+      213: -8761228454621393226
+    second: megaman-2-enemy-sprites_414
+  - first:
+      213: -5734759849549844026
+    second: megaman-2-enemy-sprites_415
+  - first:
+      213: 6029460660826798769
+    second: megaman-2-enemy-sprites_416
+  - first:
+      213: 1569546298775154729
+    second: megaman-2-enemy-sprites_417
+  - first:
+      213: 4304916402998097511
+    second: megaman-2-enemy-sprites_418
+  - first:
+      213: -7358594719620182844
+    second: megaman-2-enemy-sprites_419
+  - first:
+      213: 848304854542596036
+    second: megaman-2-enemy-sprites_420
+  - first:
+      213: 7152733379078548307
+    second: megaman-2-enemy-sprites_421
+  - first:
+      213: -7778752228157175430
+    second: megaman-2-enemy-sprites_422
+  - first:
+      213: 5894440427127839141
+    second: megaman-2-enemy-sprites_423
+  - first:
+      213: -4695728881155979085
+    second: megaman-2-enemy-sprites_424
+  - first:
+      213: 7646743738835021302
+    second: megaman-2-enemy-sprites_425
+  - first:
+      213: 1392892291312013518
+    second: megaman-2-enemy-sprites_426
+  - first:
+      213: 3503707527190363475
+    second: megaman-2-enemy-sprites_427
+  - first:
+      213: 1956096087884388031
+    second: megaman-2-enemy-sprites_428
+  - first:
+      213: -3143877994607397371
+    second: megaman-2-enemy-sprites_429
+  - first:
+      213: 1289725091446034053
+    second: megaman-2-enemy-sprites_430
+  - first:
+      213: 5179166233966826667
+    second: megaman-2-enemy-sprites_431
+  - first:
+      213: -5696015933324173907
+    second: megaman-2-enemy-sprites_432
+  - first:
+      213: 5424951571410535198
+    second: megaman-2-enemy-sprites_433
+  - first:
+      213: -1807923957207446500
+    second: megaman-2-enemy-sprites_434
+  - first:
+      213: -8641732187944072145
+    second: megaman-2-enemy-sprites_435
+  - first:
+      213: 7126914060016973843
+    second: megaman-2-enemy-sprites_436
+  - first:
+      213: 3416250819429562149
+    second: megaman-2-enemy-sprites_437
+  - first:
+      213: -5860107047341245214
+    second: megaman-2-enemy-sprites_438
+  - first:
+      213: 4203367843606696805
+    second: megaman-2-enemy-sprites_439
+  - first:
+      213: -4776430270743761083
+    second: megaman-2-enemy-sprites_440
+  - first:
+      213: 847600849495044756
+    second: megaman-2-enemy-sprites_441
+  - first:
+      213: 8841261119747312607
+    second: megaman-2-enemy-sprites_442
+  - first:
+      213: 4540594755077840294
+    second: megaman-2-enemy-sprites_443
+  - first:
+      213: -2006001859110298349
+    second: megaman-2-enemy-sprites_444
+  - first:
+      213: 5831693730283923284
+    second: megaman-2-enemy-sprites_445
+  - first:
+      213: 5946239850261818870
+    second: megaman-2-enemy-sprites_446
+  - first:
+      213: 2380156412972145502
+    second: megaman-2-enemy-sprites_447
+  - first:
+      213: -5192446580801414643
+    second: megaman-2-enemy-sprites_448
+  - first:
+      213: -180006782759952730
+    second: megaman-2-enemy-sprites_449
+  - first:
+      213: -7735729315574784098
+    second: megaman-2-enemy-sprites_450
+  - first:
+      213: -3845955263776768031
+    second: megaman-2-enemy-sprites_451
+  - first:
+      213: 5977949270511672484
+    second: megaman-2-enemy-sprites_452
+  - first:
+      213: -4117583474143319223
+    second: megaman-2-enemy-sprites_453
+  - first:
+      213: -3330459473262138160
+    second: megaman-2-enemy-sprites_454
+  - first:
+      213: -1609373015113426685
+    second: megaman-2-enemy-sprites_455
+  - first:
+      213: 7576285754161864846
+    second: megaman-2-enemy-sprites_456
+  - first:
+      213: -4599882799564969700
+    second: megaman-2-enemy-sprites_457
+  - first:
+      213: 5892861633451870870
+    second: megaman-2-enemy-sprites_458
+  - first:
+      213: -6540013503341026030
+    second: megaman-2-enemy-sprites_459
+  - first:
+      213: 4127967550085772400
+    second: megaman-2-enemy-sprites_460
+  - first:
+      213: -3447351937082424621
+    second: megaman-2-enemy-sprites_461
+  - first:
+      213: -4852666120601278920
+    second: megaman-2-enemy-sprites_462
+  - first:
+      213: -4627138342327967921
+    second: megaman-2-enemy-sprites_463
+  - first:
+      213: 3393177901982443464
+    second: megaman-2-enemy-sprites_464
+  - first:
+      213: -7104201197293190841
+    second: megaman-2-enemy-sprites_465
+  - first:
+      213: -4098257739613033793
+    second: megaman-2-enemy-sprites_466
+  - first:
+      213: 6868607892227842806
+    second: megaman-2-enemy-sprites_467
+  - first:
+      213: -6636500152872304692
+    second: megaman-2-enemy-sprites_468
+  - first:
+      213: 5796486025729570821
+    second: megaman-2-enemy-sprites_469
+  - first:
+      213: 6747346789861438666
+    second: megaman-2-enemy-sprites_470
+  - first:
+      213: 6251155326743547052
+    second: megaman-2-enemy-sprites_471
+  - first:
+      213: 6939246880242763099
+    second: megaman-2-enemy-sprites_472
+  - first:
+      213: -9187374648958477332
+    second: megaman-2-enemy-sprites_473
+  - first:
+      213: 4636070816410655295
+    second: megaman-2-enemy-sprites_474
+  - first:
+      213: -8644049131129805141
+    second: megaman-2-enemy-sprites_475
+  - first:
+      213: 6266246576211441467
+    second: megaman-2-enemy-sprites_476
+  - first:
+      213: -1370713441614490675
+    second: megaman-2-enemy-sprites_477
+  - first:
+      213: -2137830252864182979
+    second: megaman-2-enemy-sprites_478
+  - first:
+      213: 1034382247740815874
+    second: megaman-2-enemy-sprites_479
+  - first:
+      213: -7949904285234503828
+    second: megaman-2-enemy-sprites_480
+  - first:
+      213: -7454905401456453168
+    second: megaman-2-enemy-sprites_481
+  - first:
+      213: 7723885459332844919
+    second: megaman-2-enemy-sprites_482
+  - first:
+      213: 2277563889607100444
+    second: megaman-2-enemy-sprites_483
+  - first:
+      213: -2138739419741300209
+    second: megaman-2-enemy-sprites_484
+  - first:
+      213: 1715652774392883526
+    second: megaman-2-enemy-sprites_485
+  - first:
+      213: 1962329403099940536
+    second: megaman-2-enemy-sprites_486
+  - first:
+      213: 2056882624432788808
+    second: megaman-2-enemy-sprites_487
+  - first:
+      213: 1625466369311766102
+    second: megaman-2-enemy-sprites_488
+  - first:
+      213: 7128138673490787524
+    second: megaman-2-enemy-sprites_489
+  - first:
+      213: 3038336958122914049
+    second: megaman-2-enemy-sprites_490
+  - first:
+      213: 7809637517996207959
+    second: megaman-2-enemy-sprites_491
+  - first:
+      213: 895029090332437265
+    second: megaman-2-enemy-sprites_492
+  - first:
+      213: 2862371759292729205
+    second: megaman-2-enemy-sprites_493
+  - first:
+      213: 3562730922315928566
+    second: megaman-2-enemy-sprites_494
+  - first:
+      213: -4235516174329886607
+    second: megaman-2-enemy-sprites_495
+  - first:
+      213: 6084964388884050996
+    second: megaman-2-enemy-sprites_496
+  - first:
+      213: -4369006892601117889
+    second: megaman-2-enemy-sprites_497
+  - first:
+      213: -462580489708132165
+    second: megaman-2-enemy-sprites_498
+  - first:
+      213: -4310404846719204950
+    second: megaman-2-enemy-sprites_499
+  - first:
+      213: -995015745145148819
+    second: megaman-2-enemy-sprites_500
+  - first:
+      213: -950640414322480628
+    second: megaman-2-enemy-sprites_501
+  - first:
+      213: -7843796260832792003
+    second: megaman-2-enemy-sprites_502
+  - first:
+      213: 9075282663473472524
+    second: megaman-2-enemy-sprites_503
+  - first:
+      213: 4777318643262433623
+    second: megaman-2-enemy-sprites_504
+  - first:
+      213: 5898242559016211296
+    second: megaman-2-enemy-sprites_505
+  - first:
+      213: 4876317352246139314
+    second: megaman-2-enemy-sprites_506
+  - first:
+      213: -7823989498643997370
+    second: megaman-2-enemy-sprites_507
+  - first:
+      213: 8962857667453819540
+    second: megaman-2-enemy-sprites_508
+  - first:
+      213: 5249119595384709305
+    second: megaman-2-enemy-sprites_509
+  - first:
+      213: -1770953382765742304
+    second: megaman-2-enemy-sprites_510
+  - first:
+      213: 1691677007563851216
+    second: megaman-2-enemy-sprites_511
+  - first:
+      213: 3124631184563564565
+    second: megaman-2-enemy-sprites_512
+  - first:
+      213: 9137460243558042525
+    second: megaman-2-enemy-sprites_513
+  - first:
+      213: -7288571906159477265
+    second: megaman-2-enemy-sprites_514
+  - first:
+      213: 6515925453912574570
+    second: megaman-2-enemy-sprites_515
+  - first:
+      213: 4346148350991297835
+    second: megaman-2-enemy-sprites_516
+  - first:
+      213: -1225041924415212849
+    second: megaman-2-enemy-sprites_517
+  - first:
+      213: 8578669965545681917
+    second: megaman-2-enemy-sprites_518
+  - first:
+      213: 6111547266753866726
+    second: megaman-2-enemy-sprites_519
+  - first:
+      213: 1959644810580039745
+    second: megaman-2-enemy-sprites_520
+  - first:
+      213: -5205977716492565715
+    second: megaman-2-enemy-sprites_521
+  - first:
+      213: 7450469968296790119
+    second: megaman-2-enemy-sprites_522
+  - first:
+      213: -8007488952542526409
+    second: megaman-2-enemy-sprites_523
+  - first:
+      213: 701814743427136925
+    second: megaman-2-enemy-sprites_524
+  - first:
+      213: -3425017756766305402
+    second: megaman-2-enemy-sprites_525
+  - first:
+      213: 8191671254387568852
+    second: megaman-2-enemy-sprites_526
+  - first:
+      213: 3223327211127762531
+    second: megaman-2-enemy-sprites_527
+  - first:
+      213: 1655087037994883636
+    second: megaman-2-enemy-sprites_528
+  - first:
+      213: -5060837568816413127
+    second: megaman-2-enemy-sprites_529
+  - first:
+      213: 6719315357747284244
+    second: megaman-2-enemy-sprites_530
+  - first:
+      213: -3906564088736548327
+    second: megaman-2-enemy-sprites_531
+  - first:
+      213: 6518113173973298877
+    second: megaman-2-enemy-sprites_532
+  - first:
+      213: 9214145689785830677
+    second: megaman-2-enemy-sprites_533
+  - first:
+      213: -5916455974457125268
+    second: megaman-2-enemy-sprites_534
+  - first:
+      213: 6476171046241994047
+    second: megaman-2-enemy-sprites_535
+  - first:
+      213: -6200023875776371288
+    second: megaman-2-enemy-sprites_536
+  - first:
+      213: 5847248534102826613
+    second: megaman-2-enemy-sprites_537
+  - first:
+      213: -7160102467026543356
+    second: megaman-2-enemy-sprites_538
+  - first:
+      213: -5972529200985710226
+    second: megaman-2-enemy-sprites_539
+  - first:
+      213: 6861409512567847046
+    second: megaman-2-enemy-sprites_540
+  - first:
+      213: -2628722476095032004
+    second: megaman-2-enemy-sprites_541
+  - first:
+      213: -6674476721393018980
+    second: megaman-2-enemy-sprites_542
+  - first:
+      213: 4397447474129895948
+    second: megaman-2-enemy-sprites_543
+  - first:
+      213: 6138547795260720437
+    second: megaman-2-enemy-sprites_544
+  - first:
+      213: -9148343838608599368
+    second: megaman-2-enemy-sprites_545
+  - first:
+      213: -4759473844729920372
+    second: megaman-2-enemy-sprites_546
+  - first:
+      213: 6205953342263867805
+    second: megaman-2-enemy-sprites_547
+  - first:
+      213: -4720605348429370745
+    second: megaman-2-enemy-sprites_548
+  - first:
+      213: -1704418443557458872
+    second: megaman-2-enemy-sprites_549
+  - first:
+      213: -6984252653196097727
+    second: megaman-2-enemy-sprites_550
+  - first:
+      213: 5173512273034924415
+    second: megaman-2-enemy-sprites_551
+  - first:
+      213: 2087362875886118640
+    second: megaman-2-enemy-sprites_552
+  - first:
+      213: -2758108163854688777
+    second: megaman-2-enemy-sprites_553
+  - first:
+      213: -4785234995279425270
+    second: megaman-2-enemy-sprites_554
+  - first:
+      213: -8871963022379611959
+    second: megaman-2-enemy-sprites_555
+  - first:
+      213: 631014477275177402
+    second: megaman-2-enemy-sprites_556
+  - first:
+      213: 1650979989740832939
+    second: megaman-2-enemy-sprites_557
+  - first:
+      213: 3725666354810836535
+    second: megaman-2-enemy-sprites_558
+  - first:
+      213: -2949365472114860236
+    second: megaman-2-enemy-sprites_559
+  - first:
+      213: -2390675545171503762
+    second: megaman-2-enemy-sprites_560
+  - first:
+      213: -756116766628406058
+    second: megaman-2-enemy-sprites_561
+  - first:
+      213: -9100584494825067909
+    second: megaman-2-enemy-sprites_562
+  - first:
+      213: -5451268888640694536
+    second: megaman-2-enemy-sprites_563
+  - first:
+      213: 4351315202721817119
+    second: megaman-2-enemy-sprites_564
+  - first:
+      213: -570380993446914746
+    second: megaman-2-enemy-sprites_565
+  - first:
+      213: -558104008001019299
+    second: megaman-2-enemy-sprites_566
+  - first:
+      213: -4794223997089306589
+    second: megaman-2-enemy-sprites_567
+  - first:
+      213: -8859254860889429740
+    second: megaman-2-enemy-sprites_568
+  - first:
+      213: -6950666265609618130
+    second: megaman-2-enemy-sprites_569
+  - first:
+      213: 5205563648330356580
+    second: megaman-2-enemy-sprites_570
+  - first:
+      213: 5569692060031847425
+    second: megaman-2-enemy-sprites_571
+  - first:
+      213: -1570558658749947305
+    second: megaman-2-enemy-sprites_572
+  - first:
+      213: -7451658652004438414
+    second: megaman-2-enemy-sprites_573
+  - first:
+      213: 1909862418483240703
+    second: megaman-2-enemy-sprites_574
+  - first:
+      213: -7098580229580443936
+    second: megaman-2-enemy-sprites_575
+  - first:
+      213: 5152222432695986223
+    second: megaman-2-enemy-sprites_576
+  - first:
+      213: 1009415771957178284
+    second: megaman-2-enemy-sprites_577
+  - first:
+      213: -6505894575491358649
+    second: megaman-2-enemy-sprites_578
+  - first:
+      213: -457971257027784213
+    second: megaman-2-enemy-sprites_579
+  - first:
+      213: -7112026574231357779
+    second: megaman-2-enemy-sprites_580
+  - first:
+      213: 615331133041628564
+    second: megaman-2-enemy-sprites_581
+  - first:
+      213: -5248814894048225663
+    second: megaman-2-enemy-sprites_582
+  - first:
+      213: 5564255727653859928
+    second: megaman-2-enemy-sprites_583
+  - first:
+      213: 830037199434432847
+    second: megaman-2-enemy-sprites_584
+  - first:
+      213: 1769861307997573224
+    second: megaman-2-enemy-sprites_585
+  - first:
+      213: -5794368008915433597
+    second: megaman-2-enemy-sprites_586
+  - first:
+      213: -7222565589915988289
+    second: megaman-2-enemy-sprites_587
+  - first:
+      213: -389977406231212348
+    second: megaman-2-enemy-sprites_588
+  - first:
+      213: 3159379554116564152
+    second: megaman-2-enemy-sprites_589
+  - first:
+      213: -7213016453033164667
+    second: megaman-2-enemy-sprites_590
+  - first:
+      213: 6639885855981112452
+    second: megaman-2-enemy-sprites_591
+  - first:
+      213: 8256263197695647610
+    second: megaman-2-enemy-sprites_592
+  - first:
+      213: -2068176132157481644
+    second: megaman-2-enemy-sprites_593
+  - first:
+      213: 1045696051321612925
+    second: megaman-2-enemy-sprites_594
+  - first:
+      213: -7725283510495677363
+    second: megaman-2-enemy-sprites_595
+  - first:
+      213: -7265374191192463862
+    second: megaman-2-enemy-sprites_596
+  - first:
+      213: -3416201323677180336
+    second: megaman-2-enemy-sprites_597
+  - first:
+      213: 8435513406270724595
+    second: megaman-2-enemy-sprites_598
+  - first:
+      213: -5705960937263769864
+    second: megaman-2-enemy-sprites_599
+  - first:
+      213: 6736921320653564629
+    second: megaman-2-enemy-sprites_600
+  - first:
+      213: -5743348137012125167
+    second: megaman-2-enemy-sprites_601
+  - first:
+      213: -3485765692319986150
+    second: megaman-2-enemy-sprites_602
+  - first:
+      213: 4980448089476171623
+    second: megaman-2-enemy-sprites_603
+  - first:
+      213: -8442401186571545559
+    second: megaman-2-enemy-sprites_604
+  - first:
+      213: -5594485627912152485
+    second: megaman-2-enemy-sprites_605
+  - first:
+      213: -8215903541736146382
+    second: megaman-2-enemy-sprites_606
+  - first:
+      213: 4177806523617927410
+    second: megaman-2-enemy-sprites_607
+  - first:
+      213: 6624017426063585255
+    second: megaman-2-enemy-sprites_608
+  - first:
+      213: -9130191848072068915
+    second: megaman-2-enemy-sprites_609
+  - first:
+      213: -4223321387784903251
+    second: megaman-2-enemy-sprites_610
+  - first:
+      213: -6802638559526577133
+    second: megaman-2-enemy-sprites_611
+  - first:
+      213: 5964520479298595327
+    second: megaman-2-enemy-sprites_612
+  - first:
+      213: 4600876728367887645
+    second: megaman-2-enemy-sprites_613
+  - first:
+      213: 3485091414027453379
+    second: megaman-2-enemy-sprites_614
+  - first:
+      213: -8465309364161066175
+    second: megaman-2-enemy-sprites_615
+  - first:
+      213: 3264961344742834482
+    second: megaman-2-enemy-sprites_616
+  - first:
+      213: 5431921244428837559
+    second: megaman-2-enemy-sprites_617
+  - first:
+      213: -6193754347142830818
+    second: megaman-2-enemy-sprites_618
+  - first:
+      213: 1380439203785285413
+    second: megaman-2-enemy-sprites_619
+  - first:
+      213: -6288306124449911427
+    second: megaman-2-enemy-sprites_620
+  - first:
+      213: -7292570955697851732
+    second: megaman-2-enemy-sprites_621
+  - first:
+      213: 2851369591194334770
+    second: megaman-2-enemy-sprites_622
+  - first:
+      213: -5215171101670764585
+    second: megaman-2-enemy-sprites_623
+  - first:
+      213: 3665553421070328118
+    second: megaman-2-enemy-sprites_624
+  - first:
+      213: 6437930271493520411
+    second: megaman-2-enemy-sprites_625
+  - first:
+      213: 6578258199046603219
+    second: megaman-2-enemy-sprites_626
+  - first:
+      213: -3811542432005729084
+    second: megaman-2-enemy-sprites_627
+  - first:
+      213: -601167683100246556
+    second: megaman-2-enemy-sprites_628
+  - first:
+      213: 8063877424492301809
+    second: megaman-2-enemy-sprites_629
+  - first:
+      213: -4709741278236242001
+    second: megaman-2-enemy-sprites_630
+  - first:
+      213: -1544441081047696997
+    second: megaman-2-enemy-sprites_631
+  - first:
+      213: 8281879159431946096
+    second: megaman-2-enemy-sprites_632
+  - first:
+      213: -4601532251725015633
+    second: megaman-2-enemy-sprites_633
+  - first:
+      213: -6924943158984549939
+    second: megaman-2-enemy-sprites_634
+  - first:
+      213: 3678968154789644113
+    second: megaman-2-enemy-sprites_635
+  - first:
+      213: -3738826336704401901
+    second: megaman-2-enemy-sprites_636
+  - first:
+      213: -3288377065628218958
+    second: megaman-2-enemy-sprites_637
+  - first:
+      213: -5034763721659386258
+    second: megaman-2-enemy-sprites_638
+  - first:
+      213: 4572578693671814333
+    second: megaman-2-enemy-sprites_639
+  - first:
+      213: 3255188407949443429
+    second: megaman-2-enemy-sprites_640
+  - first:
+      213: -5119233416911256893
+    second: megaman-2-enemy-sprites_641
+  - first:
+      213: 5143100142597064693
+    second: megaman-2-enemy-sprites_642
+  - first:
+      213: -398953278276434037
+    second: megaman-2-enemy-sprites_643
+  - first:
+      213: 8446453100072456198
+    second: megaman-2-enemy-sprites_644
+  - first:
+      213: 6906692669292623205
+    second: megaman-2-enemy-sprites_645
+  - first:
+      213: -6213169353800750490
+    second: megaman-2-enemy-sprites_646
+  - first:
+      213: -4022205691508576257
+    second: megaman-2-enemy-sprites_647
+  - first:
+      213: 3631253484982212208
+    second: megaman-2-enemy-sprites_648
+  - first:
+      213: -5501052276098135432
+    second: megaman-2-enemy-sprites_649
+  - first:
+      213: -6934033446982401307
+    second: megaman-2-enemy-sprites_650
+  - first:
+      213: -7866091509167011615
+    second: megaman-2-enemy-sprites_651
+  - first:
+      213: 7484036563366577022
+    second: megaman-2-enemy-sprites_652
+  - first:
+      213: -8722003215573352467
+    second: megaman-2-enemy-sprites_653
+  - first:
+      213: 537935818411764746
+    second: megaman-2-enemy-sprites_654
+  - first:
+      213: -8652647554485978879
+    second: megaman-2-enemy-sprites_655
+  - first:
+      213: 8940881983422698173
+    second: megaman-2-enemy-sprites_656
+  - first:
+      213: 5965876976843953483
+    second: megaman-2-enemy-sprites_657
+  - first:
+      213: -7973587185903751614
+    second: megaman-2-enemy-sprites_658
+  - first:
+      213: 3494504018802460920
+    second: megaman-2-enemy-sprites_659
+  - first:
+      213: -7399106075127361290
+    second: megaman-2-enemy-sprites_660
+  - first:
+      213: -4993904332119729703
+    second: megaman-2-enemy-sprites_661
+  - first:
+      213: 775690436632059246
+    second: megaman-2-enemy-sprites_662
+  - first:
+      213: 8463178474815714358
+    second: megaman-2-enemy-sprites_663
+  - first:
+      213: -4398854601727680445
+    second: megaman-2-enemy-sprites_664
+  - first:
+      213: -7843284707881209218
+    second: megaman-2-enemy-sprites_665
+  - first:
+      213: -141049286423219458
+    second: megaman-2-enemy-sprites_666
+  - first:
+      213: 7991612688579473129
+    second: megaman-2-enemy-sprites_667
+  - first:
+      213: 5880246983629890773
+    second: megaman-2-enemy-sprites_668
+  - first:
+      213: 4266674700441352221
+    second: megaman-2-enemy-sprites_669
+  - first:
+      213: 5998056210883126490
+    second: megaman-2-enemy-sprites_670
+  - first:
+      213: 5905768525630232621
+    second: megaman-2-enemy-sprites_671
+  - first:
+      213: 7343262275969308264
+    second: megaman-2-enemy-sprites_672
+  - first:
+      213: 9117227709185898057
+    second: megaman-2-enemy-sprites_673
+  - first:
+      213: 196294736916318571
+    second: megaman-2-enemy-sprites_674
+  - first:
+      213: -3760449386939527090
+    second: megaman-2-enemy-sprites_675
+  - first:
+      213: -6239774938576298176
+    second: megaman-2-enemy-sprites_676
+  - first:
+      213: 2194380041734645981
+    second: megaman-2-enemy-sprites_677
+  - first:
+      213: -1031583031854344878
+    second: megaman-2-enemy-sprites_678
+  - first:
+      213: -9178517561088231901
+    second: megaman-2-enemy-sprites_679
+  - first:
+      213: -4130079822793292159
+    second: megaman-2-enemy-sprites_680
+  - first:
+      213: 4088812973575076993
+    second: megaman-2-enemy-sprites_681
+  - first:
+      213: -6542283209064011881
+    second: megaman-2-enemy-sprites_682
+  - first:
+      213: -4066597562444461606
+    second: megaman-2-enemy-sprites_683
+  - first:
+      213: 5573479178118532790
+    second: megaman-2-enemy-sprites_684
+  - first:
+      213: -6863435091234091131
+    second: megaman-2-enemy-sprites_685
+  - first:
+      213: 6912236573832058338
+    second: megaman-2-enemy-sprites_686
+  - first:
+      213: 3822864246144989448
+    second: megaman-2-enemy-sprites_687
+  - first:
+      213: 799141675324499845
+    second: megaman-2-enemy-sprites_688
+  - first:
+      213: -2865804414123315511
+    second: megaman-2-enemy-sprites_689
+  - first:
+      213: -6815077580451482332
+    second: megaman-2-enemy-sprites_690
+  - first:
+      213: 1893203060475324996
+    second: megaman-2-enemy-sprites_691
+  - first:
+      213: -6424386132278126059
+    second: megaman-2-enemy-sprites_692
+  - first:
+      213: -939422710827240625
+    second: megaman-2-enemy-sprites_693
+  - first:
+      213: -4341460696530742853
+    second: megaman-2-enemy-sprites_694
+  - first:
+      213: -8881503560234223022
+    second: megaman-2-enemy-sprites_695
+  - first:
+      213: 5321790655168509083
+    second: megaman-2-enemy-sprites_696
+  - first:
+      213: 4420185729233507138
+    second: megaman-2-enemy-sprites_697
+  - first:
+      213: 1663656943915446572
+    second: megaman-2-enemy-sprites_698
+  - first:
+      213: 5961179997879158076
+    second: megaman-2-enemy-sprites_699
+  - first:
+      213: -5126214559026414184
+    second: megaman-2-enemy-sprites_700
+  - first:
+      213: 5967426872449025097
+    second: megaman-2-enemy-sprites_701
+  - first:
+      213: 4988737105161147808
+    second: megaman-2-enemy-sprites_702
+  - first:
+      213: -2414286184897862813
+    second: megaman-2-enemy-sprites_703
+  - first:
+      213: 6336582770179044455
+    second: megaman-2-enemy-sprites_704
+  - first:
+      213: -8513769642738425668
+    second: megaman-2-enemy-sprites_705
+  - first:
+      213: 6821189576916713355
+    second: megaman-2-enemy-sprites_706
+  - first:
+      213: -7354492955530256088
+    second: megaman-2-enemy-sprites_707
+  - first:
+      213: 7261029088391146343
+    second: megaman-2-enemy-sprites_708
+  - first:
+      213: -6008415633645924160
+    second: megaman-2-enemy-sprites_709
+  - first:
+      213: -8934296712715681921
+    second: megaman-2-enemy-sprites_710
+  - first:
+      213: 2704882861733108021
+    second: megaman-2-enemy-sprites_711
+  - first:
+      213: 8115650720052590813
+    second: megaman-2-enemy-sprites_712
+  - first:
+      213: -5916926034556753774
+    second: megaman-2-enemy-sprites_713
+  - first:
+      213: 3401199785859146706
+    second: megaman-2-enemy-sprites_714
+  - first:
+      213: -2373306175560004191
+    second: megaman-2-enemy-sprites_715
+  - first:
+      213: -2600893402387509845
+    second: megaman-2-enemy-sprites_716
+  - first:
+      213: 4220033052966716506
+    second: megaman-2-enemy-sprites_717
+  - first:
+      213: -150858268875581803
+    second: megaman-2-enemy-sprites_718
+  - first:
+      213: 3814350270378570068
+    second: megaman-2-enemy-sprites_719
+  - first:
+      213: 78523644721838982
+    second: megaman-2-enemy-sprites_720
+  - first:
+      213: 5327003247393533110
+    second: megaman-2-enemy-sprites_721
+  - first:
+      213: -1283503108569152663
+    second: megaman-2-enemy-sprites_722
+  - first:
+      213: -1003342532086029375
+    second: megaman-2-enemy-sprites_723
+  - first:
+      213: 8661130516749730163
+    second: megaman-2-enemy-sprites_724
+  - first:
+      213: 2823421238301791262
+    second: megaman-2-enemy-sprites_725
+  - first:
+      213: 706621138403444473
+    second: megaman-2-enemy-sprites_726
+  - first:
+      213: 2242912980364522720
+    second: megaman-2-enemy-sprites_727
+  - first:
+      213: 6947469449087787254
+    second: megaman-2-enemy-sprites_728
+  - first:
+      213: 8318900690822627829
+    second: megaman-2-enemy-sprites_729
+  - first:
+      213: -5012316203071437214
+    second: megaman-2-enemy-sprites_730
+  - first:
+      213: 7116786442594146058
+    second: megaman-2-enemy-sprites_731
+  - first:
+      213: -7271989195401454817
+    second: megaman-2-enemy-sprites_732
+  - first:
+      213: 7367457280859945266
+    second: megaman-2-enemy-sprites_733
+  - first:
+      213: 2698027126959355980
+    second: megaman-2-enemy-sprites_734
+  - first:
+      213: -7244967344040375573
+    second: megaman-2-enemy-sprites_735
+  - first:
+      213: 5567179420377683482
+    second: megaman-2-enemy-sprites_736
+  - first:
+      213: 8047325658034103493
+    second: megaman-2-enemy-sprites_737
+  - first:
+      213: 876469076196218817
+    second: megaman-2-enemy-sprites_738
+  - first:
+      213: 7803158706928924363
+    second: megaman-2-enemy-sprites_739
+  - first:
+      213: 1576725444372950951
+    second: megaman-2-enemy-sprites_740
+  - first:
+      213: 2280810080577509605
+    second: megaman-2-enemy-sprites_741
+  - first:
+      213: 460630983577041899
+    second: megaman-2-enemy-sprites_742
+  - first:
+      213: -4564431456151788319
+    second: megaman-2-enemy-sprites_743
+  - first:
+      213: -6897570633305375407
+    second: megaman-2-enemy-sprites_744
+  - first:
+      213: -7785638632329616349
+    second: megaman-2-enemy-sprites_745
+  - first:
+      213: -6102562580957507541
+    second: megaman-2-enemy-sprites_746
+  - first:
+      213: 5125455543922860426
+    second: megaman-2-enemy-sprites_747
+  - first:
+      213: -5103366664373794179
+    second: megaman-2-enemy-sprites_748
+  - first:
+      213: 1902329433430147491
+    second: megaman-2-enemy-sprites_749
+  - first:
+      213: -2311163057893832723
+    second: megaman-2-enemy-sprites_750
+  - first:
+      213: 6979126004045019656
+    second: megaman-2-enemy-sprites_751
+  - first:
+      213: 1270592818100106987
+    second: megaman-2-enemy-sprites_752
+  - first:
+      213: -4728438199295356256
+    second: megaman-2-enemy-sprites_753
+  - first:
+      213: 8994216806454613867
+    second: megaman-2-enemy-sprites_754
+  - first:
+      213: -327012180584291614
+    second: megaman-2-enemy-sprites_755
+  - first:
+      213: 7766642210499494825
+    second: megaman-2-enemy-sprites_756
+  - first:
+      213: 8874818945275517530
+    second: megaman-2-enemy-sprites_757
+  - first:
+      213: -3197119352931188062
+    second: megaman-2-enemy-sprites_758
+  - first:
+      213: 2952863289622935662
+    second: megaman-2-enemy-sprites_759
+  - first:
+      213: 3766476779720647872
+    second: megaman-2-enemy-sprites_760
+  - first:
+      213: -8469341731353246231
+    second: megaman-2-enemy-sprites_761
+  - first:
+      213: -8167902023881697636
+    second: megaman-2-enemy-sprites_762
+  - first:
+      213: -6923774840124159688
+    second: megaman-2-enemy-sprites_763
+  - first:
+      213: -7052131550621998575
+    second: megaman-2-enemy-sprites_764
+  - first:
+      213: 1852759467556628160
+    second: megaman-2-enemy-sprites_765
+  - first:
+      213: -3034193124572122643
+    second: megaman-2-enemy-sprites_766
+  - first:
+      213: 6543509239606303993
+    second: megaman-2-enemy-sprites_767
+  - first:
+      213: 3844409128273314179
+    second: megaman-2-enemy-sprites_768
+  - first:
+      213: -3483630829234839232
+    second: megaman-2-enemy-sprites_769
+  - first:
+      213: 6942685830949264612
+    second: megaman-2-enemy-sprites_770
+  - first:
+      213: 8039687376814124920
+    second: megaman-2-enemy-sprites_771
+  - first:
+      213: 850746418064934895
+    second: megaman-2-enemy-sprites_772
+  - first:
+      213: -5522893327346165428
+    second: megaman-2-enemy-sprites_773
+  - first:
+      213: 5733787977612288195
+    second: megaman-2-enemy-sprites_774
+  - first:
+      213: -5355692163170628950
+    second: megaman-2-enemy-sprites_775
+  - first:
+      213: -2631910338472587778
+    second: megaman-2-enemy-sprites_776
+  - first:
+      213: 4825792429294543435
+    second: megaman-2-enemy-sprites_777
+  - first:
+      213: 4001777541555162981
+    second: megaman-2-enemy-sprites_778
+  - first:
+      213: 6220589641957538740
+    second: megaman-2-enemy-sprites_779
+  - first:
+      213: 7352082029082459849
+    second: megaman-2-enemy-sprites_780
+  - first:
+      213: 2877878513975874773
+    second: megaman-2-enemy-sprites_781
+  - first:
+      213: -7660608969136654498
+    second: megaman-2-enemy-sprites_782
+  - first:
+      213: 8488389905967433230
+    second: megaman-2-enemy-sprites_783
+  - first:
+      213: 6431974495371615195
+    second: megaman-2-enemy-sprites_784
+  - first:
+      213: 7993675478487638681
+    second: megaman-2-enemy-sprites_785
+  - first:
+      213: -1453849774469666596
+    second: megaman-2-enemy-sprites_786
+  - first:
+      213: 7201225816430235463
+    second: megaman-2-enemy-sprites_787
+  - first:
+      213: -2115117948830186060
+    second: megaman-2-enemy-sprites_788
+  - first:
+      213: 5790752236040323670
+    second: megaman-2-enemy-sprites_789
+  - first:
+      213: 5030769346026088746
+    second: megaman-2-enemy-sprites_790
+  - first:
+      213: -7908817971848650148
+    second: megaman-2-enemy-sprites_791
+  - first:
+      213: 2255736014248048027
+    second: megaman-2-enemy-sprites_792
+  - first:
+      213: -125819147180445031
+    second: megaman-2-enemy-sprites_793
+  - first:
+      213: -7231872968665725550
+    second: megaman-2-enemy-sprites_794
+  - first:
+      213: 4794882157477271378
+    second: megaman-2-enemy-sprites_795
+  - first:
+      213: 1087237817287754124
+    second: megaman-2-enemy-sprites_796
+  - first:
+      213: -7817010827945426257
+    second: megaman-2-enemy-sprites_797
+  - first:
+      213: -3674766759391353646
+    second: megaman-2-enemy-sprites_798
+  - first:
+      213: 8957693324173928228
+    second: megaman-2-enemy-sprites_799
+  - first:
+      213: 1442884677040878689
+    second: megaman-2-enemy-sprites_800
+  - first:
+      213: 1642454220833992731
+    second: megaman-2-enemy-sprites_801
+  - first:
+      213: -8796455935402140800
+    second: megaman-2-enemy-sprites_802
+  - first:
+      213: 6699854989765676627
+    second: megaman-2-enemy-sprites_803
+  - first:
+      213: 3812282680623741479
+    second: megaman-2-enemy-sprites_804
+  - first:
+      213: -5530385542005785067
+    second: megaman-2-enemy-sprites_805
+  - first:
+      213: 1149484126260394073
+    second: megaman-2-enemy-sprites_806
+  - first:
+      213: -7272210607882952012
+    second: megaman-2-enemy-sprites_807
+  - first:
+      213: -2629625207145457878
+    second: megaman-2-enemy-sprites_808
+  - first:
+      213: 6199110849324591358
+    second: megaman-2-enemy-sprites_809
+  - first:
+      213: -9122912717296676872
+    second: megaman-2-enemy-sprites_810
+  - first:
+      213: -2837078292323540101
+    second: megaman-2-enemy-sprites_811
+  - first:
+      213: 4712146046773061238
+    second: megaman-2-enemy-sprites_812
+  - first:
+      213: -3189210884016208174
+    second: megaman-2-enemy-sprites_813
+  - first:
+      213: -1083040643018981363
+    second: megaman-2-enemy-sprites_814
+  - first:
+      213: -1837349193357367593
+    second: megaman-2-enemy-sprites_815
+  - first:
+      213: 9136972749889102845
+    second: megaman-2-enemy-sprites_816
+  - first:
+      213: -4227331003504929683
+    second: megaman-2-enemy-sprites_817
+  - first:
+      213: 8406874826577922358
+    second: megaman-2-enemy-sprites_818
+  - first:
+      213: -7676940709196912280
+    second: megaman-2-enemy-sprites_819
+  - first:
+      213: -3202244095232375713
+    second: megaman-2-enemy-sprites_820
+  - first:
+      213: -4337220359183929500
+    second: megaman-2-enemy-sprites_821
+  - first:
+      213: 3407115341872841577
+    second: megaman-2-enemy-sprites_822
+  - first:
+      213: 8724432555086317192
+    second: megaman-2-enemy-sprites_823
+  - first:
+      213: 8346889234495018381
+    second: megaman-2-enemy-sprites_824
+  - first:
+      213: 6912552266615394504
+    second: megaman-2-enemy-sprites_825
+  - first:
+      213: 8875719041618047838
+    second: megaman-2-enemy-sprites_826
+  - first:
+      213: 7032959624476659794
+    second: megaman-2-enemy-sprites_827
+  - first:
+      213: 8092594132657420062
+    second: megaman-2-enemy-sprites_828
+  - first:
+      213: -6550718441150804070
+    second: megaman-2-enemy-sprites_829
+  - first:
+      213: -438139856147031167
+    second: megaman-2-enemy-sprites_830
+  - first:
+      213: 1326234959916678205
+    second: megaman-2-enemy-sprites_831
+  - first:
+      213: 6329094916974712084
+    second: megaman-2-enemy-sprites_832
+  - first:
+      213: -5353539785498444095
+    second: megaman-2-enemy-sprites_833
+  - first:
+      213: 3267657045724897625
+    second: megaman-2-enemy-sprites_834
+  - first:
+      213: -6636623432290182244
+    second: megaman-2-enemy-sprites_835
+  - first:
+      213: -839388246546988199
+    second: megaman-2-enemy-sprites_836
+  - first:
+      213: -6282803482262960608
+    second: megaman-2-enemy-sprites_837
+  - first:
+      213: -2467536709143758445
+    second: megaman-2-enemy-sprites_838
+  - first:
+      213: -2560259848025331456
+    second: megaman-2-enemy-sprites_839
+  - first:
+      213: -3555618725442275080
+    second: megaman-2-enemy-sprites_840
+  - first:
+      213: 7851526361841779340
+    second: megaman-2-enemy-sprites_841
+  - first:
+      213: 8658054313945910954
+    second: megaman-2-enemy-sprites_842
+  - first:
+      213: 8520619548170639510
+    second: megaman-2-enemy-sprites_843
+  - first:
+      213: 2786478341432481060
+    second: megaman-2-enemy-sprites_844
+  - first:
+      213: 4967991407912975383
+    second: megaman-2-enemy-sprites_845
+  - first:
+      213: 4709178438857963434
+    second: megaman-2-enemy-sprites_846
+  - first:
+      213: -8199406101108778626
+    second: megaman-2-enemy-sprites_847
+  - first:
+      213: 4423464045681017659
+    second: megaman-2-enemy-sprites_848
+  - first:
+      213: 3430376233646494039
+    second: megaman-2-enemy-sprites_849
+  - first:
+      213: -6165213151424546450
+    second: megaman-2-enemy-sprites_850
+  - first:
+      213: 8520354615895378954
+    second: megaman-2-enemy-sprites_851
+  - first:
+      213: -8057054381637877132
+    second: megaman-2-enemy-sprites_852
+  - first:
+      213: 7101167283928503911
+    second: megaman-2-enemy-sprites_853
+  - first:
+      213: 8652031148983090798
+    second: megaman-2-enemy-sprites_854
+  - first:
+      213: -266532899137238016
+    second: megaman-2-enemy-sprites_855
+  - first:
+      213: -9015013026459458208
+    second: megaman-2-enemy-sprites_856
+  - first:
+      213: -2157911223705221271
+    second: megaman-2-enemy-sprites_857
+  - first:
+      213: 5587464263294826288
+    second: megaman-2-enemy-sprites_858
+  - first:
+      213: -7963333624834895672
+    second: megaman-2-enemy-sprites_859
+  - first:
+      213: -8212470052029012459
+    second: megaman-2-enemy-sprites_860
+  - first:
+      213: 4697075946695956383
+    second: megaman-2-enemy-sprites_861
+  - first:
+      213: -2899698931559968361
+    second: megaman-2-enemy-sprites_862
+  - first:
+      213: -5992797457104265234
+    second: megaman-2-enemy-sprites_863
+  - first:
+      213: 6824562950282437442
+    second: megaman-2-enemy-sprites_864
+  - first:
+      213: 1404047319326506875
+    second: megaman-2-enemy-sprites_865
+  - first:
+      213: -1155370825796256851
+    second: megaman-2-enemy-sprites_866
+  - first:
+      213: -8364314663408588738
+    second: megaman-2-enemy-sprites_867
+  - first:
+      213: -3652773415877571965
+    second: megaman-2-enemy-sprites_868
+  - first:
+      213: 7013531769572585041
+    second: megaman-2-enemy-sprites_869
+  - first:
+      213: 323356368874954008
+    second: megaman-2-enemy-sprites_870
+  - first:
+      213: -4299823639274561081
+    second: megaman-2-enemy-sprites_871
+  - first:
+      213: -3050642012452452422
+    second: megaman-2-enemy-sprites_872
+  - first:
+      213: 1445441199168915406
+    second: megaman-2-enemy-sprites_873
+  - first:
+      213: 969583292785422402
+    second: megaman-2-enemy-sprites_874
+  - first:
+      213: 1696795054506305411
+    second: megaman-2-enemy-sprites_875
+  - first:
+      213: 736253140676311980
+    second: megaman-2-enemy-sprites_876
+  - first:
+      213: 2532372952506872087
+    second: megaman-2-enemy-sprites_877
+  - first:
+      213: -6844393197624592817
+    second: megaman-2-enemy-sprites_878
+  - first:
+      213: -8748695489536978084
+    second: megaman-2-enemy-sprites_879
+  - first:
+      213: 8499556744496968430
+    second: megaman-2-enemy-sprites_880
+  - first:
+      213: -5136949384632418896
+    second: megaman-2-enemy-sprites_881
+  - first:
+      213: -8106810386419378218
+    second: megaman-2-enemy-sprites_882
+  - first:
+      213: -8731405315507127234
+    second: megaman-2-enemy-sprites_883
+  - first:
+      213: -5333893522239962460
+    second: megaman-2-enemy-sprites_884
+  - first:
+      213: 6138223776020010015
+    second: megaman-2-enemy-sprites_885
+  - first:
+      213: -3253562930106757711
+    second: megaman-2-enemy-sprites_886
+  - first:
+      213: 739506536151842459
+    second: megaman-2-enemy-sprites_887
+  - first:
+      213: -8924296058061212830
+    second: megaman-2-enemy-sprites_888
+  - first:
+      213: 2905695654455150915
+    second: megaman-2-enemy-sprites_889
+  - first:
+      213: 6042273892324315713
+    second: megaman-2-enemy-sprites_890
+  - first:
+      213: -1487982397475777319
+    second: megaman-2-enemy-sprites_891
+  - first:
+      213: -4550658028755835174
+    second: megaman-2-enemy-sprites_892
+  - first:
+      213: -2917325143650553100
+    second: megaman-2-enemy-sprites_893
+  - first:
+      213: 3381596216537257844
+    second: megaman-2-enemy-sprites_894
+  - first:
+      213: 4627638770299588792
+    second: megaman-2-enemy-sprites_895
+  - first:
+      213: 1618018661085503640
+    second: megaman-2-enemy-sprites_896
+  - first:
+      213: -6539816155949233317
+    second: megaman-2-enemy-sprites_897
+  - first:
+      213: 7181600938952325869
+    second: megaman-2-enemy-sprites_898
+  - first:
+      213: -4302350845653249811
+    second: megaman-2-enemy-sprites_899
+  - first:
+      213: 8433603447576215150
+    second: megaman-2-enemy-sprites_900
+  - first:
+      213: 6563878996197404809
+    second: megaman-2-enemy-sprites_901
+  - first:
+      213: -6624193895606201658
+    second: megaman-2-enemy-sprites_902
+  - first:
+      213: 4946592776070880513
+    second: megaman-2-enemy-sprites_903
+  - first:
+      213: -1330196783915050449
+    second: megaman-2-enemy-sprites_904
+  - first:
+      213: -4649613980292983443
+    second: megaman-2-enemy-sprites_905
+  - first:
+      213: 3138065770363643843
+    second: megaman-2-enemy-sprites_906
+  - first:
+      213: 6951192019911453772
+    second: megaman-2-enemy-sprites_907
+  - first:
+      213: 4180736426956664032
+    second: megaman-2-enemy-sprites_908
+  - first:
+      213: 8576824407322507459
+    second: megaman-2-enemy-sprites_909
+  - first:
+      213: 1255738924520241536
+    second: megaman-2-enemy-sprites_910
+  - first:
+      213: -3496637716859237198
+    second: megaman-2-enemy-sprites_911
+  - first:
+      213: 5128763481792993988
+    second: megaman-2-enemy-sprites_912
+  - first:
+      213: 2320770298224054771
+    second: megaman-2-enemy-sprites_913
+  - first:
+      213: -1648140904072832890
+    second: megaman-2-enemy-sprites_914
+  - first:
+      213: 1940937055663129455
+    second: megaman-2-enemy-sprites_915
+  - first:
+      213: 1979714124695492419
+    second: megaman-2-enemy-sprites_916
+  - first:
+      213: 5441176659024535911
+    second: megaman-2-enemy-sprites_917
+  - first:
+      213: -9218354168092146863
+    second: megaman-2-enemy-sprites_918
+  - first:
+      213: -288697083782063609
+    second: megaman-2-enemy-sprites_919
+  - first:
+      213: -1066726859044361538
+    second: megaman-2-enemy-sprites_920
+  - first:
+      213: 7325115910493004689
+    second: megaman-2-enemy-sprites_921
+  - first:
+      213: 138338462044408007
+    second: megaman-2-enemy-sprites_922
+  - first:
+      213: 668763243582192092
+    second: megaman-2-enemy-sprites_923
+  - first:
+      213: 3440374837218742604
+    second: megaman-2-enemy-sprites_924
+  - first:
+      213: 7685927694390336705
+    second: megaman-2-enemy-sprites_925
+  - first:
+      213: 2415390140694283294
+    second: megaman-2-enemy-sprites_926
+  - first:
+      213: -3165154589623349042
+    second: megaman-2-enemy-sprites_927
+  - first:
+      213: -9178052617301806238
+    second: megaman-2-enemy-sprites_928
+  - first:
+      213: 130378315395686345
+    second: megaman-2-enemy-sprites_929
+  - first:
+      213: 2446713676157996929
+    second: megaman-2-enemy-sprites_930
+  - first:
+      213: 1328854394407214273
+    second: megaman-2-enemy-sprites_931
+  - first:
+      213: -5707267813302184484
+    second: megaman-2-enemy-sprites_932
+  - first:
+      213: 527790024743471354
+    second: megaman-2-enemy-sprites_933
+  - first:
+      213: -2950443487494085115
+    second: megaman-2-enemy-sprites_934
+  - first:
+      213: 5623024000342796533
+    second: megaman-2-enemy-sprites_935
+  - first:
+      213: -7538426288532802470
+    second: megaman-2-enemy-sprites_936
+  - first:
+      213: -3399274070303495086
+    second: megaman-2-enemy-sprites_937
+  - first:
+      213: -5291984962552111698
+    second: megaman-2-enemy-sprites_938
+  - first:
+      213: -2416809882590449514
+    second: megaman-2-enemy-sprites_939
+  - first:
+      213: -1396168255616448572
+    second: megaman-2-enemy-sprites_940
+  - first:
+      213: -3468012591539980493
+    second: megaman-2-enemy-sprites_941
+  - first:
+      213: -7893633059512427332
+    second: megaman-2-enemy-sprites_942
+  - first:
+      213: 2322687496422999028
+    second: megaman-2-enemy-sprites_943
+  - first:
+      213: -1820269880947872314
+    second: megaman-2-enemy-sprites_944
+  - first:
+      213: -1018341196163265720
+    second: megaman-2-enemy-sprites_945
+  - first:
+      213: 2793112533996878150
+    second: megaman-2-enemy-sprites_946
+  - first:
+      213: 2505673293131199429
+    second: megaman-2-enemy-sprites_947
+  - first:
+      213: -4647364147217856049
+    second: megaman-2-enemy-sprites_948
+  - first:
+      213: -179500107120403460
+    second: megaman-2-enemy-sprites_949
+  - first:
+      213: -5469685541681854397
+    second: megaman-2-enemy-sprites_950
+  - first:
+      213: 8424893944531167443
+    second: megaman-2-enemy-sprites_951
+  - first:
+      213: -1170077049804919325
+    second: megaman-2-enemy-sprites_952
+  - first:
+      213: -5270338920947362926
+    second: megaman-2-enemy-sprites_953
+  - first:
+      213: 150525581149801601
+    second: megaman-2-enemy-sprites_954
+  - first:
+      213: -2241984111374019900
+    second: megaman-2-enemy-sprites_955
+  - first:
+      213: -854602232382230718
+    second: megaman-2-enemy-sprites_956
+  - first:
+      213: -6895154241489919178
+    second: megaman-2-enemy-sprites_957
+  - first:
+      213: 2474848032716070284
+    second: megaman-2-enemy-sprites_958
+  - first:
+      213: -465509863593951894
+    second: megaman-2-enemy-sprites_959
+  - first:
+      213: -4186735076709880983
+    second: megaman-2-enemy-sprites_960
+  - first:
+      213: -2544364759979891704
+    second: megaman-2-enemy-sprites_961
+  - first:
+      213: -4785541540844725523
+    second: megaman-2-enemy-sprites_962
+  - first:
+      213: -8430962871183660196
+    second: megaman-2-enemy-sprites_963
+  - first:
+      213: -1173851730019318965
+    second: megaman-2-enemy-sprites_964
+  - first:
+      213: -5184105666164102439
+    second: megaman-2-enemy-sprites_965
+  - first:
+      213: 3192094303158871218
+    second: megaman-2-enemy-sprites_966
+  - first:
+      213: -2268257049596828298
+    second: megaman-2-enemy-sprites_967
+  - first:
+      213: 3628748074191124480
+    second: megaman-2-enemy-sprites_968
+  - first:
+      213: 4908130765674998462
+    second: megaman-2-enemy-sprites_969
+  - first:
+      213: -1347447407929210376
+    second: megaman-2-enemy-sprites_970
+  - first:
+      213: -4864389325824878423
+    second: megaman-2-enemy-sprites_971
+  - first:
+      213: 2762050334232388976
+    second: megaman-2-enemy-sprites_972
+  - first:
+      213: -1252390395197873766
+    second: megaman-2-enemy-sprites_973
+  - first:
+      213: -5758232654488011192
+    second: megaman-2-enemy-sprites_974
+  - first:
+      213: 7094846414336940472
+    second: megaman-2-enemy-sprites_975
+  - first:
+      213: 9142251960014243842
+    second: megaman-2-enemy-sprites_976
+  - first:
+      213: -8225924134096704447
+    second: megaman-2-enemy-sprites_977
+  - first:
+      213: -2970133867789975245
+    second: megaman-2-enemy-sprites_978
+  - first:
+      213: 739964043207382605
+    second: megaman-2-enemy-sprites_979
+  - first:
+      213: 1507370328141018163
+    second: megaman-2-enemy-sprites_980
+  - first:
+      213: -7144804564738877297
+    second: megaman-2-enemy-sprites_981
+  - first:
+      213: 8903321797595364590
+    second: megaman-2-enemy-sprites_982
+  - first:
+      213: 883880387273715739
+    second: megaman-2-enemy-sprites_983
+  - first:
+      213: -6193229640682853530
+    second: megaman-2-enemy-sprites_984
+  - first:
+      213: -1857731861069306925
+    second: megaman-2-enemy-sprites_985
+  - first:
+      213: -104673500865445993
+    second: megaman-2-enemy-sprites_986
+  - first:
+      213: -5637352721674320209
+    second: megaman-2-enemy-sprites_987
+  - first:
+      213: 5382990744045684004
+    second: megaman-2-enemy-sprites_988
+  - first:
+      213: 4143600283141787287
+    second: megaman-2-enemy-sprites_989
+  - first:
+      213: 6299266876303570769
+    second: megaman-2-enemy-sprites_990
+  - first:
+      213: -1184707883635515301
+    second: megaman-2-enemy-sprites_991
+  - first:
+      213: 3328969609357565734
+    second: megaman-2-enemy-sprites_992
+  - first:
+      213: 1726614084871873646
+    second: megaman-2-enemy-sprites_993
+  - first:
+      213: 7867836714410601194
+    second: megaman-2-enemy-sprites_994
+  - first:
+      213: -8988684331904305900
+    second: megaman-2-enemy-sprites_995
+  - first:
+      213: 2786562360791114206
+    second: megaman-2-enemy-sprites_996
+  - first:
+      213: -8877859104081592264
+    second: megaman-2-enemy-sprites_997
+  - first:
+      213: 2103157159931948108
+    second: megaman-2-enemy-sprites_998
+  - first:
+      213: 6414917189369684722
+    second: megaman-2-enemy-sprites_999
+  - first:
+      213: -7982150405710657478
+    second: megaman-2-enemy-sprites_1000
+  - first:
+      213: -8413266810279595571
+    second: megaman-2-enemy-sprites_1001
+  - first:
+      213: 8435251382780097766
+    second: megaman-2-enemy-sprites_1002
+  - first:
+      213: -8196956592364346302
+    second: megaman-2-enemy-sprites_1003
+  - first:
+      213: -1031453180289105895
+    second: megaman-2-enemy-sprites_1004
+  - first:
+      213: -7996862350749096360
+    second: megaman-2-enemy-sprites_1005
+  - first:
+      213: -8344156918642734384
+    second: megaman-2-enemy-sprites_1006
+  - first:
+      213: 8205298337224454226
+    second: megaman-2-enemy-sprites_1007
+  - first:
+      213: 4276712402822989781
+    second: megaman-2-enemy-sprites_1008
+  - first:
+      213: -808993404934460399
+    second: megaman-2-enemy-sprites_1009
+  - first:
+      213: 1789333003212090645
+    second: megaman-2-enemy-sprites_1010
+  - first:
+      213: -1974012474781138895
+    second: megaman-2-enemy-sprites_1011
+  - first:
+      213: -163903818527226820
+    second: megaman-2-enemy-sprites_1012
+  - first:
+      213: 4272885353782013620
+    second: megaman-2-enemy-sprites_1013
+  - first:
+      213: -4847541713665358712
+    second: megaman-2-enemy-sprites_1014
+  - first:
+      213: 1569962336199484448
+    second: megaman-2-enemy-sprites_1015
+  - first:
+      213: -1415257803622394505
+    second: megaman-2-enemy-sprites_1016
+  - first:
+      213: 7013282118786969544
+    second: megaman-2-enemy-sprites_1017
+  - first:
+      213: -4507014857843023160
+    second: megaman-2-enemy-sprites_1018
+  - first:
+      213: 7133559824566986562
+    second: megaman-2-enemy-sprites_1019
+  - first:
+      213: -6403254839674176727
+    second: megaman-2-enemy-sprites_1020
+  - first:
+      213: -4350689480686593715
+    second: megaman-2-enemy-sprites_1021
+  - first:
+      213: 2191270164035923300
+    second: megaman-2-enemy-sprites_1022
+  - first:
+      213: -6929351438153440986
+    second: megaman-2-enemy-sprites_1023
+  - first:
+      213: 3592120268990066076
+    second: megaman-2-enemy-sprites_1024
+  - first:
+      213: -6109105511714840713
+    second: megaman-2-enemy-sprites_1025
+  - first:
+      213: 3240343240390619431
+    second: megaman-2-enemy-sprites_1026
+  - first:
+      213: 4569828661319521335
+    second: megaman-2-enemy-sprites_1027
+  - first:
+      213: -6031264175400508215
+    second: megaman-2-enemy-sprites_1028
+  - first:
+      213: 5163449377069781540
+    second: megaman-2-enemy-sprites_1029
+  - first:
+      213: 7919496744381348902
+    second: megaman-2-enemy-sprites_1030
+  - first:
+      213: -1563605669193315485
+    second: megaman-2-enemy-sprites_1031
+  - first:
+      213: 1496331540244598897
+    second: megaman-2-enemy-sprites_1032
+  - first:
+      213: -3844610982730294036
+    second: megaman-2-enemy-sprites_1033
+  - first:
+      213: 8652715184672865093
+    second: megaman-2-enemy-sprites_1034
+  - first:
+      213: 7729487721846802727
+    second: megaman-2-enemy-sprites_1035
+  - first:
+      213: -8341248322319296845
+    second: megaman-2-enemy-sprites_1036
+  - first:
+      213: -3839762801020968649
+    second: megaman-2-enemy-sprites_1037
+  - first:
+      213: -3715945623162860430
+    second: megaman-2-enemy-sprites_1038
+  - first:
+      213: 8884370996019461761
+    second: megaman-2-enemy-sprites_1039
+  - first:
+      213: 3199235206731987825
+    second: megaman-2-enemy-sprites_1040
+  - first:
+      213: 2784887438201398843
+    second: megaman-2-enemy-sprites_1041
+  - first:
+      213: -4569727307701748165
+    second: megaman-2-enemy-sprites_1042
+  - first:
+      213: 7777229076650758705
+    second: megaman-2-enemy-sprites_1043
+  - first:
+      213: 5830841947480002247
+    second: megaman-2-enemy-sprites_1044
+  - first:
+      213: -3827660068313903572
+    second: megaman-2-enemy-sprites_1045
+  - first:
+      213: 6770889720104767495
+    second: megaman-2-enemy-sprites_1046
+  - first:
+      213: -3113348671374388092
+    second: megaman-2-enemy-sprites_1047
+  - first:
+      213: -704570039436452381
+    second: megaman-2-enemy-sprites_1048
+  - first:
+      213: -7614786790204138149
+    second: megaman-2-enemy-sprites_1049
+  - first:
+      213: -190891736894458922
+    second: megaman-2-enemy-sprites_1050
+  - first:
+      213: -2515179962495262131
+    second: megaman-2-enemy-sprites_1051
+  - first:
+      213: -2891363975410891613
+    second: megaman-2-enemy-sprites_1052
+  - first:
+      213: 9053990600305847092
+    second: megaman-2-enemy-sprites_1053
+  - first:
+      213: -8457662320116838286
+    second: megaman-2-enemy-sprites_1054
+  - first:
+      213: -8006512727976312296
+    second: megaman-2-enemy-sprites_1055
+  - first:
+      213: -5394212225602748331
+    second: megaman-2-enemy-sprites_1056
+  - first:
+      213: -6781263560792072822
+    second: megaman-2-enemy-sprites_1057
+  - first:
+      213: 8070220749407593242
+    second: megaman-2-enemy-sprites_1058
+  - first:
+      213: -6846785875943853490
+    second: megaman-2-enemy-sprites_1059
+  - first:
+      213: 4029629659699635044
+    second: megaman-2-enemy-sprites_1060
+  - first:
+      213: 2584313334802753576
+    second: megaman-2-enemy-sprites_1061
+  - first:
+      213: -8990705163754454177
+    second: megaman-2-enemy-sprites_1062
+  - first:
+      213: -1231032281847292787
+    second: megaman-2-enemy-sprites_1063
+  - first:
+      213: -2962971738873147314
+    second: megaman-2-enemy-sprites_1064
+  - first:
+      213: -4256476910481080318
+    second: megaman-2-enemy-sprites_1065
+  - first:
+      213: 6918441113424330085
+    second: megaman-2-enemy-sprites_1066
+  - first:
+      213: -7569554710570010648
+    second: megaman-2-enemy-sprites_1067
+  - first:
+      213: 1175488601887944118
+    second: megaman-2-enemy-sprites_1068
+  - first:
+      213: 6002045084233931457
+    second: megaman-2-enemy-sprites_1069
+  - first:
+      213: 4230130057995990606
+    second: megaman-2-enemy-sprites_1070
+  - first:
+      213: 1660629642433542763
+    second: megaman-2-enemy-sprites_1071
+  - first:
+      213: 4008729775089213048
+    second: megaman-2-enemy-sprites_1072
+  - first:
+      213: 3339528513241190270
+    second: megaman-2-enemy-sprites_1073
+  - first:
+      213: 2766699283947956689
+    second: megaman-2-enemy-sprites_1074
+  - first:
+      213: -7520565878223291515
+    second: megaman-2-enemy-sprites_1075
+  - first:
+      213: 7757126049226446785
+    second: megaman-2-enemy-sprites_1076
+  - first:
+      213: -3355314490603297385
+    second: megaman-2-enemy-sprites_1077
+  - first:
+      213: 3171983179953630094
+    second: megaman-2-enemy-sprites_1078
+  - first:
+      213: -2110733997848108487
+    second: megaman-2-enemy-sprites_1079
+  - first:
+      213: -7609570845611420045
+    second: megaman-2-enemy-sprites_1080
+  - first:
+      213: 52668488230904023
+    second: megaman-2-enemy-sprites_1081
+  - first:
+      213: 3250254567544658482
+    second: megaman-2-enemy-sprites_1082
+  - first:
+      213: 1116640671335659174
+    second: megaman-2-enemy-sprites_1083
+  - first:
+      213: 7683581641384377284
+    second: megaman-2-enemy-sprites_1084
+  - first:
+      213: 8201192483598976504
+    second: megaman-2-enemy-sprites_1085
+  - first:
+      213: 4659278091656572832
+    second: megaman-2-enemy-sprites_1086
+  - first:
+      213: -3255243953349670727
+    second: megaman-2-enemy-sprites_1087
+  - first:
+      213: 7563500592057294921
+    second: megaman-2-enemy-sprites_1088
+  - first:
+      213: 4889058079659327074
+    second: megaman-2-enemy-sprites_1089
+  - first:
+      213: 957076070754831380
+    second: megaman-2-enemy-sprites_1090
+  - first:
+      213: 6593859072530940139
+    second: megaman-2-enemy-sprites_1091
+  - first:
+      213: 3242507132382233560
+    second: megaman-2-enemy-sprites_1092
+  - first:
+      213: 8929094366336048537
+    second: megaman-2-enemy-sprites_1093
+  - first:
+      213: 2364909854495138767
+    second: megaman-2-enemy-sprites_1094
+  - first:
+      213: 8695452598494719761
+    second: megaman-2-enemy-sprites_1095
+  - first:
+      213: -8600769933964595369
+    second: megaman-2-enemy-sprites_1096
+  - first:
+      213: 2040011290718142910
+    second: megaman-2-enemy-sprites_1097
+  - first:
+      213: 5890359456882328867
+    second: megaman-2-enemy-sprites_1098
+  - first:
+      213: 1485310653162502509
+    second: megaman-2-enemy-sprites_1099
+  - first:
+      213: -3723631289037503256
+    second: megaman-2-enemy-sprites_1100
+  - first:
+      213: 8167447155040990651
+    second: megaman-2-enemy-sprites_1101
+  - first:
+      213: 3258136914597813176
+    second: megaman-2-enemy-sprites_1102
+  - first:
+      213: -2047056758446404233
+    second: megaman-2-enemy-sprites_1103
+  - first:
+      213: 6889343953604996358
+    second: megaman-2-enemy-sprites_1104
+  - first:
+      213: 6527799163695094264
+    second: megaman-2-enemy-sprites_1105
+  - first:
+      213: 432651060374090077
+    second: megaman-2-enemy-sprites_1106
+  - first:
+      213: -5256775651707921261
+    second: megaman-2-enemy-sprites_1107
+  - first:
+      213: 6707670174218896068
+    second: megaman-2-enemy-sprites_1108
+  - first:
+      213: 8492387653440667546
+    second: megaman-2-enemy-sprites_1109
+  - first:
+      213: -4884964881246709813
+    second: megaman-2-enemy-sprites_1110
+  - first:
+      213: 6540717961394874653
+    second: megaman-2-enemy-sprites_1111
+  - first:
+      213: -3449126235097902681
+    second: megaman-2-enemy-sprites_1112
+  - first:
+      213: -4626828297511960897
+    second: megaman-2-enemy-sprites_1113
+  - first:
+      213: 7682189301866605148
+    second: megaman-2-enemy-sprites_1114
+  - first:
+      213: 2432647222587760507
+    second: megaman-2-enemy-sprites_1115
+  - first:
+      213: 3748770549723589251
+    second: megaman-2-enemy-sprites_1116
+  - first:
+      213: -4686008201099133507
+    second: megaman-2-enemy-sprites_1117
+  - first:
+      213: -7894358156070431645
+    second: megaman-2-enemy-sprites_1118
+  - first:
+      213: -5243249944786601906
+    second: megaman-2-enemy-sprites_1119
+  - first:
+      213: 4685163718273630050
+    second: megaman-2-enemy-sprites_1120
+  - first:
+      213: -3816378906073043478
+    second: megaman-2-enemy-sprites_1121
+  - first:
+      213: 5822444047531194621
+    second: megaman-2-enemy-sprites_1122
+  - first:
+      213: -2491722497350205560
+    second: megaman-2-enemy-sprites_1123
+  - first:
+      213: -1618467523276817566
+    second: megaman-2-enemy-sprites_1124
+  - first:
+      213: 389604864365840257
+    second: megaman-2-enemy-sprites_1125
+  - first:
+      213: -3124812585988876988
+    second: megaman-2-enemy-sprites_1126
+  - first:
+      213: -8457666125770421819
+    second: megaman-2-enemy-sprites_1127
+  - first:
+      213: 4097861579968504020
+    second: megaman-2-enemy-sprites_1128
+  - first:
+      213: -4200250781960784752
+    second: megaman-2-enemy-sprites_1129
+  - first:
+      213: -6694535393445090784
+    second: megaman-2-enemy-sprites_1130
+  - first:
+      213: -8340461113170384099
+    second: megaman-2-enemy-sprites_1131
+  - first:
+      213: -5619840314483342976
+    second: megaman-2-enemy-sprites_1132
+  - first:
+      213: -5007663473259198656
+    second: megaman-2-enemy-sprites_1133
+  - first:
+      213: 2692359964847435197
+    second: megaman-2-enemy-sprites_1134
+  - first:
+      213: 1814907114282271881
+    second: megaman-2-enemy-sprites_1135
+  - first:
+      213: -5930956505288951708
+    second: megaman-2-enemy-sprites_1136
+  - first:
+      213: 79582756200933884
+    second: megaman-2-enemy-sprites_1137
+  - first:
+      213: 6207320809060370944
+    second: megaman-2-enemy-sprites_1138
+  - first:
+      213: -6414684528075590463
+    second: megaman-2-enemy-sprites_1139
+  - first:
+      213: -6282089612940781312
+    second: megaman-2-enemy-sprites_1140
+  - first:
+      213: -5357452717130365421
+    second: megaman-2-enemy-sprites_1141
+  - first:
+      213: -2406064614571584547
+    second: megaman-2-enemy-sprites_1142
+  - first:
+      213: 4814678494411886040
+    second: megaman-2-enemy-sprites_1143
+  - first:
+      213: 84477367511763823
+    second: megaman-2-enemy-sprites_1144
+  - first:
+      213: -1494192764940498763
+    second: megaman-2-enemy-sprites_1145
+  - first:
+      213: -462492357128423013
+    second: megaman-2-enemy-sprites_1146
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 800
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a612cb1b7368160800000000000000
+      internalID: 7027365505063283250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 800
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a4e605bd4dc3b80800000000000000
+      internalID: -8413615965422597534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 802
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b9817560d1504e0800000000000000
+      internalID: -2016173345110189262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 804
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e2bd560552f9c0800000000000000
+      internalID: -3894957241891887513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 799
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a480331417791b0800000000000000
+      internalID: -5649922682670003570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 800
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac5ca7ee2afa940800000000000000
+      internalID: 5309641630838803173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 800
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380db923f2634bb60800000000000000
+      internalID: 7760887634206642307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 798
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab4feffa682c4d0800000000000000
+      internalID: -3115779901732111717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 798
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782fa5ed4c17e41a0800000000000000
+      internalID: -6823391295061691769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 797
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b184804085eb90e0800000000000000
+      internalID: -2261962048822541903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 798
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8cbb79681896fd0800000000000000
+      internalID: -2348203315625735986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 750
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b4584824f531f0800000000000000
+      internalID: -1065677282953874379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 750
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc483e97dee74860800000000000000
+      internalID: 7514237113130831028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 750
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ff19e7379a58b0800000000000000
+      internalID: -5162647756436670528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 750
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cbd39d7f1e0a9e0800000000000000
+      internalID: -1612040211980764061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 717
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f79773068e899f10800000000000000
+      internalID: 2277007792847427573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 717
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0000d45fb02598b0800000000000000
+      internalID: -5146170993067163638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 717
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7af8b5edc73b20800000000000000
+      internalID: 3114184053884615839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 717
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae33529e221e1e30800000000000000
+      internalID: 4476035070885576356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 761
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71abccae38421f40800000000000000
+      internalID: 5697695912601297279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 755
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b230a4ec828fc00800000000000000
+      internalID: 934541789149473561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 757
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc5d9223740a6a30800000000000000
+      internalID: 4209181694279638236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 710
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e1a024936bab360800000000000000
+      internalID: 7186256512460398091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 710
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1572473a2a47b8130800000000000000
+      internalID: 3570075371497072465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 710
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2450d20f2d84776d0800000000000000
+      internalID: -2992843356554590910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 710
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc7935234fa33c0800000000000000
+      internalID: -4378919190676385999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 741
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced8fcd434078c90800000000000000
+      internalID: -7167755656844747059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 721
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8430fcfa9772280800000000000000
+      internalID: -9068145528687867725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 718
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ced3fa96761f40800000000000000
+      internalID: 5698872786372445453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 721
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b414db0ab69f3cf0800000000000000
+      internalID: -270331726812408651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134fe88515ab88d00800000000000000
+      internalID: 975234177866593329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5ef1c331a3ffb0800000000000000
+      internalID: -4615167949454549910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b826d275cd1150800000000000000
+      internalID: 5845044988406707939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b98abd46d94a30800000000000000
+      internalID: 4200123756830110855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 678
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36188daddeaa1c0800000000000000
+      internalID: -4491516154157636704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 677
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d885b8be694ccc0800000000000000
+      internalID: -3691659856137646764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 678
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc77f2f4fa88d6c0800000000000000
+      internalID: -4118389074577359652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 684
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e34176ba52817c0800000000000000
+      internalID: -4100486042621821410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 683
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6174bd76a54f1f70800000000000000
+      internalID: 9160116748470743406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447b1b1d576ace280800000000000000
+      internalID: -9012645729315735740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 682
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81629bec40ca5e820800000000000000
+      internalID: 2946950667831944728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 635
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711a7146ec52dd30800000000000000
+      internalID: 4454725125433594232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 635
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69533590181516410800000000000000
+      internalID: 1468544568148571542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 599
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7aeab59626cbdb0800000000000000
+      internalID: -4774833300270307359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 598
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb78324180007ef0800000000000000
+      internalID: -112589435522483231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 632
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec165aa2fd004e770800000000000000
+      internalID: 8639030943696642510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 633
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b9a9276cef5ff0800000000000000
+      internalID: -45057543425642252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 633
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1393f70c6c1235320800000000000000
+      internalID: 2545415351911266609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 631
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3407adb9e93490800000000000000
+      internalID: -7765919081663546271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 632
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cc087f98a7ab270800000000000000
+      internalID: 8267054798973488153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 631
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce21105057698af70800000000000000
+      internalID: 9198767668243534572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 594
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78eca9780ecf1aa0800000000000000
+      internalID: -6188000827187337091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 594
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1374677dfa1f4940800000000000000
+      internalID: 5282470563861000987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 594
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ade6c4cece46bb0800000000000000
+      internalID: -4943565991307191712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 593
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356656d36b689eda0800000000000000
+      internalID: -5915048518302210477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 594
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39bd0a8b14f650a0800000000000000
+      internalID: -6893053780526515906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 594
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3d59e771e9eb5e0800000000000000
+      internalID: -1891900969703844940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 593
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b7a50169837790800000000000000
+      internalID: -7533526701860997337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 615
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded9b0b008d30f10800000000000000
+      internalID: 2234867337582468830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 603
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be7476209276f50800000000000000
+      internalID: 6874508446503791428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 589
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060dacdb202a8a80800000000000000
+      internalID: -8463917176931416572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 593
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e2ca11decace90800000000000000
+      internalID: -7004558872928917339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 558
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8e1902e8ce6210800000000000000
+      internalID: 1328219813262036009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 558
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbf59a42208e4380800000000000000
+      internalID: -8985103321788974114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeda4e2b166b01b00800000000000000
+      internalID: 797337664773991914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 558
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22671bb7bd8d730800000000000000
+      internalID: 4024207591360307948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 556
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747960de1de12ae0800000000000000
+      internalID: -1575717678001589129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 556
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf4b2b183c1ec690800000000000000
+      internalID: -7580090095518396479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 565
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52edaf41bbb911520800000000000000
+      internalID: 2671087281820589605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 564
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa39ccc5ccfa0f0800000000000000
+      internalID: -1103438684741193924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a7dd0a276160f0800000000000000
+      internalID: -1125505001547388518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c727e23cf9e740920800000000000000
+      internalID: 2955626480101388924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 561
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876779638a7cdfe30800000000000000
+      internalID: 4539003524743657080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_73
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 561
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30fceb0ad5c27710800000000000000
+      internalID: 1689630350510977085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 518
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec1d64fa13d344e0800000000000000
+      internalID: -1998521696898966289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 518
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d04881577b7ca10800000000000000
+      internalID: 1929712678901910834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 518
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0b8f9f7269af920800000000000000
+      internalID: 3024895198174425267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 518
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eb2e98f8b1a5a60800000000000000
+      internalID: 7663468019231932061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 516
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aed210b7a98b370800000000000000
+      internalID: 8338584563167914627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_79
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 516
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d974182ee83f4a0800000000000000
+      internalID: -6560743128665973479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_80
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 525
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b6eafbc8928660800000000000000
+      internalID: 7386634340696240186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 524
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9822b318936ed9a0800000000000000
+      internalID: -6206413731653343076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef16cf9106193920800000000000000
+      internalID: 2970429625458892777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903f41fba3cd58600800000000000000
+      internalID: 470023881002119945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 521
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d78c23c6bb1dadc0800000000000000
+      internalID: -3626211653190907945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_85
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 521
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324a24f155216d90800000000000000
+      internalID: -7106357703094943173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 476
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767267e8e68bc830800000000000000
+      internalID: 4092513021268751996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 476
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d58513a9f21f790800000000000000
+      internalID: -7498159565295821450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 481
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d53a64cbd4754a0800000000000000
+      internalID: -6604724857481241223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5abad2020e19ebc0800000000000000
+      internalID: -3753435820449940899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218505d3c1559e820800000000000000
+      internalID: 2947981010866821138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_91
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68393b7dc60286a90800000000000000
+      internalID: -7320565542443314298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7888df7d7ed9aaee0800000000000000
+      internalID: -1249012327555168121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 484
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef01f0f0018604130800000000000000
+      internalID: 3548950924549361918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 480
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195018fa6cfd21d80800000000000000
+      internalID: -8281310720339933807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 473
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac58a5a4be659100800000000000000
+      internalID: 114119087720258734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_96
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 474
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f497d1181c4365f0800000000000000
+      internalID: -764683845460585226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_97
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 474
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573e765af96077300800000000000000
+      internalID: 249675587086967669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_98
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 473
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26f717dfdcd12b0800000000000000
+      internalID: -5612103072219176234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 436
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d17e2ff405d9b0800000000000000
+      internalID: -5056129512611130824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_100
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 436
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577e505172b4a1310800000000000000
+      internalID: 1376495267343624053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 441
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258836ec0d1b9fc0800000000000000
+      internalID: -3487161545229040351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed53e863efe6b42a0800000000000000
+      internalID: -6752181178195888674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b41dd94326df150800000000000000
+      internalID: 5907986264305519495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20614956ed77111d0800000000000000
+      internalID: -3381790048107883006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_105
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b6e8b0cd5d5a80800000000000000
+      internalID: -8476515841324173105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 444
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e39d286423775c0800000000000000
+      internalID: -4217847247584805296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 440
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96b0f18f30aed50800000000000000
+      internalID: 6767225754285206004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0cbecb63b6463d0800000000000000
+      internalID: -3214326351193718589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_109
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 429
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70fd419430728200800000000000000
+      internalID: 180830306126655610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 431
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f556af2b49a56a2d0800000000000000
+      internalID: -3267824884906302113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 431
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a856b884a8574e0800000000000000
+      internalID: -1984528016605869455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_112
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 396
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3ecedcb199a350800000000000000
+      internalID: 6028509816590056569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_113
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 396
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253025d7c09f3eb20800000000000000
+      internalID: 3162645195381670738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 401
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71df9cab944900dc0800000000000000
+      internalID: -3674774251547001577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_115
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089933bac891d9220800000000000000
+      internalID: 2494177860591524224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bf43fab807cd730800000000000000
+      internalID: 4025215912204630861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b324c2f6759730800000000000000
+      internalID: 4005238228660760704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15490e35bd43cf6b0800000000000000
+      internalID: -5261272148065872815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_119
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1227b7142e9cf20800000000000000
+      internalID: 3443532160973283799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_120
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c316f74dc6e9f0800000000000000
+      internalID: -439438204667182867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_121
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09267993c94486090800000000000000
+      internalID: -8041101696898211184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_122
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e90d1be7c098a70800000000000000
+      internalID: 8829602282725219929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_123
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77fb7edf5a4eff10800000000000000
+      internalID: 2305361834875287421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_124
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f82933a92fea60800000000000000
+      internalID: 7705423268469602546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e279d6c64d6744f00800000000000000
+      internalID: 1100134863709509422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_126
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569353b2f9b95b70800000000000000
+      internalID: 8888339791634208343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_127
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971e22c591c9e4320800000000000000
+      internalID: 2544142472244814201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_128
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd7070c1f9e8f210800000000000000
+      internalID: 1367099711431933425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 361
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887622969e6621200800000000000000
+      internalID: 149294890333923208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_130
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 309
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff99c76d7dfe5c860800000000000000
+      internalID: 7549704060652001791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 309
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430da359bd57d28b0800000000000000
+      internalID: -5175350810816884684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_132
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 343
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc40e5aec3d85b970800000000000000
+      internalID: 8770071142143493323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 314
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3037c1813287c0800000000000000
+      internalID: -4070636679727137245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 314
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a2980c4d388e4b0800000000000000
+      internalID: -5410930002499130777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 317
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37acb22278e23d3b0800000000000000
+      internalID: -5488992362905744781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_136
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 282
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509824ec3c2634ca0800000000000000
+      internalID: -6033870482627720955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_137
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402f99ef91f45890800000000000000
+      internalID: -7470080212779196340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_138
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 219
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66667563c5e596760800000000000000
+      internalID: 7451590808602895974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851ec19076e204a0800000000000000
+      internalID: -6628482330379020920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_140
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b529ecd2d541f0800000000000000
+      internalID: -1061210290929682989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_141
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d54936c7a14370800000000000000
+      internalID: 8305103657654146761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_142
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 152
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fdcd250371f8d10800000000000000
+      internalID: 2129946645085609863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_143
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 154
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501639efa3027c20800000000000000
+      internalID: 3202626339080638558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b500c5c6befc70800000000000000
+      internalID: 9006837265233982070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_145
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 155
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750d27f1b81b0c10800000000000000
+      internalID: 2020736010441000305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_146
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 154
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e161a6dac85ebedc0800000000000000
+      internalID: -3608538284039727586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_147
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa7d5cdc3d0c030800000000000000
+      internalID: 3513040590089990129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be6a4b450d73440800000000000000
+      internalID: 4915626580524854145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a34159b9d70f00800000000000000
+      internalID: 1083073625361457263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 54
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4977378a6f30650800000000000000
+      internalID: 6198068715544089764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_151
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf37ff3a3aad050800000000000000
+      internalID: 5826148992717945845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 117
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c3c5320394b090800000000000000
+      internalID: -8019623398738770489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 60
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f049d8ad491a90800000000000000
+      internalID: -7342752329856125894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_154
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 58
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ededec90103e5360800000000000000
+      internalID: 7160213305476115942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_155
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af54a59e57a8050800000000000000
+      internalID: 5803580714922670631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_156
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953a830cace7fd20800000000000000
+      internalID: 3312376274492208536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ceccb2cf0d2be50800000000000000
+      internalID: 6823746166904908842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8701b1b14e40b5d0800000000000000
+      internalID: -3048850903668815989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_159
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181058d42571675a0800000000000000
+      internalID: -6524001367944265343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_160
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e24198726d802920800000000000000
+      internalID: 2963524008878883556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_161
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0bfcf6ace4bdfc0800000000000000
+      internalID: -3469092456592592712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_162
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3e105bb090d150800000000000000
+      internalID: 5895371046405422215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_163
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973af15cf1390e890800000000000000
+      internalID: -7430777620500864135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_164
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8534b7db1691babd0800000000000000
+      internalID: -2617970850804317352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_165
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419e29e3b9a20170800000000000000
+      internalID: 8143257666415661384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_166
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7c09027956cd40800000000000000
+      internalID: 5604265132622118293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_167
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608e5ae3d3ee00a0800000000000000
+      internalID: -6913337878657466257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman-2-enemy-sprites_168
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931127ae1515fdb0800000000000000
+      internalID: -4758874209849896040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

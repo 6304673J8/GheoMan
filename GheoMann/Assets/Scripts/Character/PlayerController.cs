@@ -11,6 +11,10 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb2D;
     public Animator animator;
     private SpriteRenderer spriteRenderer;
+    
+    // Audio
+    public AudioSource audioWeapon;
+    public AudioSource audioStage;
 
     //Animator IDs
     private int runningID;
@@ -32,6 +36,9 @@ public class PlayerController : MonoBehaviour
     public float walkSpeed = 1;
     public float jumpSpeed = 220;
 
+    public GameObject bulletPrefab;
+    public float offsetBullet;
+    private float nextFire;
     // Start is called before the first frame update
     void Start()
     {
@@ -60,7 +67,12 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.X))
         {
-            isShooting = true;
+            nextFire = Time.time;
+            if (nextFire > 1)
+            {
+                isShooting = true;
+                ShootingLogic();
+            }
         }
         if (Input.GetKey(KeyCode.RightArrow))
         {
@@ -204,5 +216,13 @@ public class PlayerController : MonoBehaviour
         {
             isJumping = true;
         }
+    }
+
+    public void ShootingLogic()
+    {
+        Vector2 pos = transform.right * offsetBullet + transform.position;
+
+        nextFire = 0;
+        GameObject bullet = Instantiate(bulletPrefab, pos, transform.rotation);
     }
 }

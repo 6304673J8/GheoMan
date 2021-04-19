@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Scenario
+  - Enemy
+  - Explosion
+  - Health
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - 
   - 
   - Checkpoint
-  - 
+  - Ground
   - 
   - 
   - 
@@ -41,4 +45,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3106999535
+    locked: 0
+  - name: Bullet
+    uniqueID: 2859201245
     locked: 0
