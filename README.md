@@ -1,2 +1,2 @@
 # GheoMan
-Custom Game - Final Unity Project
+Basic Unity Project - Simple Megaman Like Game, Work In Progress.  
